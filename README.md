@@ -1,15 +1,21 @@
 **Instructors**: [Brenden Lake](https://cims.nyu.edu/~brenden/) and [Todd Gureckis](http://psych.nyu.edu/gureckis/)
 
-**Teaching Assistants**: Yanli Zhou and Graham Flick
+**Teaching Assistants**: Guy Davidson
 
 **Meeting time and location**:  
 We have a "flipped classroom" model for lecture  
 Lecture is pre-recorded and available on Vimeo  
-Live discussion is on Mondays 1:35-2:35 PM  
+Live discussion is blended on Mondays 1:35-2:35 PM  
+In person GCASL_C95 - Global Center for Academic & Spiritual Life, 238 Thompson Street (capacity = 56)
+Zoom link in NYU Classes
 
-Lab  
-Tuesdays 2:40-3:30 PM  
-Access via the Zoom link in NYU Classes
+Labs (we have two times for people with time zone issues, attend one):  
+Option1: Tuesday 8am-8:50am  
+Online, Zoom link in NYU Classes. 
+
+Option 2: Tuesdays 2:40-3:30 PM  
+Blended (60FA, capacity 17 students) also can access via the Zoom link in NYU Classes
+
 
 **Course numbers**:  
 DS-GA 1016 (Data Science)  
@@ -18,11 +24,11 @@ PSYCH-GA 3405.002 (Psychology)
 **Contact information and Piazza**:  
 We use Piazza for questions and class discussion. Piazza gets you help efficiently from classmates, the TA, and the instructors. Rather than emailing questions to the teaching staff, please post your questions on Piazza.
 
-The signup link for our Piazza page is available here ([piazza.com/nyu/spring2020/dsga3001005](https://piazza.com/nyu/spring2020/dsga3001005)).
+The signup link for our Piazza page is available here ([TBD](TBD)).
 
-Once signed up, our class Piazza page is available here ([piazza.com/nyu/spring2020/dsga3001005/home](https://piazza.com/nyu/spring2020/dsga3001005/home)).
+Once signed up, our class Piazza page is available here ([TBD](TBD)).
 
-If you have a question that isn't suitable for Piazza and there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2020@nyuccl.org
+If you have a question that isn't suitable for Piazza and there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2021@nyuccl.org
 
 **Office hours (via Zoom. Look for links posted on Piazza)**:  
 Todd Gureckis (Tuesday at 1-2pm eastern)  
@@ -49,7 +55,7 @@ Class participation will be used to decide grades in borderline cases. As we onl
 ## Final Project
 The final project proposal is due Monday, April 6 (0.5 pages written). Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
 
-The final project is due Wednesday 5/13. Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf.
+The final project is due Wednesday 5/12. Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf.
 
 The final project will be done in groups of 3-4 students. A short paper will be turned in describing the project (approximately 6 pages). The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a cognitive modeling project related to your research.  We provide a list of project ideas [here](final_project_ideas.md), but of course you do not have to choose from this list.
 
@@ -61,49 +67,49 @@ Write-ups should be organized and written as a scientific paper. It must include
 Code submission is not required for the final project.
 
 ## Lecture schedule
-Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)        
-- 1/27 : Introduction ([slides](lectures/lecture-01-introduction.pdf))
-- 2/3 : Neural networks / Deep learning (part 1) ([slides](lectures/lecture-02-neural_nets.pdf))
+Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)  
+
+- Mon Feb 01: Introduction ([slides](lectures/lecture-01-introduction.pdf))
+- Mon Feb 08: Neural networks / Deep learning (part 1) ([slides](lectures/lecture-02-neural_nets.pdf))
   - Homework 1 assigned on 2/5 (Due 2/24) (instructions for accessing [here](retrieving_hw.md))
-- 2/10 : Neural networks / Deep learning (part 2) ([slides](lectures/lecture-03-neural_nets.pdf))
-- 2/17 : NO CLASS - President's day
-- 2/24 : Reinforcement learning (part 1) ([slides](lectures/lecture-04-reinforcementlearning.pdf))
-- 3/2 : Reinforcement learning (part 2) ([slides](lectures/lecture-05-reinforcementlearning.pdf))
+- Mon Feb 15: No class, President's Day
+- Mon Feb 22: Reinforcement learning (part 1) ([slides](lectures/lecture-04-reinforcementlearning.pdf))
+- Mon Mar 01: Reinforcement learning (part 2) ([slides](lectures/lecture-05-reinforcementlearning.pdf))
   - Homework 2 assigned (Due 3/27) (instructions for accessing [here](retrieving_hw.md))
-- 3/9 : Reinforcement learning (part 3) ([slides](lectures/lecture-06-reinforcementlearning.pdf))([video](https://vimeo.com/404085989))
-- 3/16 : NO CLASS - Spring recess
-- 3/23 : Bayesian modeling (part 1) ([slides](lectures/lecture-07-bayesian_modeling.pdf)) ([video](https://vimeo.com/399514147))
+- Mon Mar 08: Reinforcement learning (part 3) ([slides](lectures/lecture-06-reinforcementlearning.pdf))
+- Mon Mar 15: Bayesian modeling (part 1) ([slides](lectures/lecture-07-bayesian_modeling.pdf))
   - Homework 3 assigned (Due 4/13) (instructions for accessing [here](retrieving_hw.md))
-- 3/30 : Bayesian modeling (part 2) (for slides see part 1) ([video](https://vimeo.com/400435600))
-- 4/6 : Model comparison and fitting, tricks of the trade ([slides](lectures/lecture-09-modelfit.pdf))([video](https://vimeo.com/404348821))
-  - Project proposal due (Monday April 6)
-- 4/13 : Categorization ([slides](lectures/lecture-10-categorization.pdf)) ([video](https://vimeo.com/407047389))
+- Mon Mar 22: Bayesian modeling (part 2) (for slides see part 1)
+- Mon Mar 29: Model comparison and fitting, tricks of the trade ([slides](lectures/lecture-09-modelfit.pdf))
+- Mon Apr 05: Categorization ([slides](lectures/lecture-10-categorization.pdf))
   - Homework 4 assigned (Due 5/4) (instructions for accessing [here](retrieving_hw.md))
-- 4/20 : Probabilistic Graphical models ([slides](lectures/lecture-11-graphical_models.pdf)) ([video](https://vimeo.com/407755101))
-- 4/27 : Information sampling and active learning ([slides](lectures/lecture-12-activelearning.pdf)) ([video](https://vimeo.com/412183257))
-- 5/4 : Program induction and language of thought models ([slides](lectures/lecture-13-program_induction.pdf)) ([video](https://vimeo.com/410406345))
-- 5/11 : Computational Cognitive Neuroscience([slides](lectures/lecture-14-computational_cognitive_neuroscience.pdf))([video](https://vimeo.com/417071937))
-- Conclusion video ([slides](lectures/conclusion.pdf))([video](https://vimeo.com/416908765)) 
-- Final project due (Wednesday 5/13)
+- Mon Apr 12: Probabilistic Graphical models ([slides](lectures/lecture-11-graphical_models.pdf))
+- Mon Apr 19: No class, Long Weekend (Spring Break Replacement)
+- Mon Apr 26: Information sampling and active learning ([slides](lectures/lecture-12-activelearning.pdf))
+- Mon May 03: Program induction and language of thought models ([slides](lectures/lecture-13-program_induction.pdf))
+- Thu May 06: Computational Cognitive Neuroscience([slides](lectures/lecture-14-computational_cognitive_neuroscience.pdf))  Note special date, Legislative Day (classes meet on Monday schedule)
+- Mon May 10: Conclusion/summary video ([slides](lectures/conclusion.pdf))
+- Final project due (Wednesday 5/12)
+
 
 ## Lab schedule
-Tuesdays 2:40-3:30 PM (via NYU classes Zoom tool)  
-- 1/28 : Python and Jupyter notebooks review
-- 2/4 : Introduction to PyTorch
-- 2/11 : No lab
-- 2/18 : HW 1 Review
-- 2/25 : No lab
-- 3/3 : Reinforcement learning
-- 3/10 : HW 2 Review
-- 3/17 : SPRING RECESS
-- 3/24 : Probability review
-- 3/31 : No lab
-- 4/7 : HW 3 Review
-- 4/14 : No lab
-- 4/21 : No lab
-- 4/28 : HW 4 Review
-- 5/5 : TBD
-- 5/12 : No lab (classes end 5/11)
+Tuesdays 8am-8:50am (online via NYU Zoom only) OR 2:40-3:30 PM (in person and via NYU classes Zoom tool)  
+
+- Tue Feb 02, Python and Jupyter notebooks review
+- Tue Feb 09, Introduction to PyTorch
+- Tue Feb 16, No lab
+- Tue Feb 23, HW 1 Review
+- Tue Mar 02, No lab
+- Tue Mar 09, Reinforcement learning
+- Tue Mar 16, HW 2 Review
+- Tue Mar 23, No lab
+- Tue Mar 30, Probability review
+- Tue Apr 06, No lab
+- Tue Apr 13, HW 3 Review
+- Tue Apr 20, No lab
+- Tue Apr 27, HW 4 Review
+- Tue May 04, No lab
+
 
 ## Readings and slides
 Papers are available for download on NYU Classes in the "Resources" folder.
