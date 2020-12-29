@@ -1,16 +1,17 @@
+# Computational cognitive modeling - Spring 2021
+
 **Instructors**: [Brenden Lake](https://cims.nyu.edu/~brenden/) and [Todd Gureckis](http://psych.nyu.edu/gureckis/)
 
-**Teaching Assistants**: Guy Davidson and Aysja Johnson
+**Teaching Assistants**: [Guy Davidson](https://guydavidson.me/)
 
 **Meeting time and location**:  
-
 **Lecture.** We have a "flipped classroom" model.
 Lectures will be pre-recorded and available to watch on Vimeo.  
 Live discussion of the lectures is blended on Mondays 1:35-2:35 PM.  
 In person GCASL_C95 - Global Center for Academic & Spiritual Life, 238 Thompson Street (capacity = 56).
 Zoom link in NYU Classes.
 
-**Labs.** We have two times. Attend only one, whichever is convenient for you.  
+**Labs.** We have two times. Attend only one, whichever is more convenient for you.  
 Option 1: Tuesdays 8:00-8:50 AM  
 Online, Zoom link in NYU Classes.  
 
@@ -18,8 +19,8 @@ Option 2: Tuesdays 2:40-3:30 PM
 Blended (60FA, capacity 17 students) also can access via the Zoom link in NYU Classes.  
 
 **Course numbers**:  
-DS-GA 1016 (Data Science)  
-PSYCH-GA 3405.002 (Psychology)  
+DS-GA 1016.003 (Data Science)  
+PSYCH-GA 3405.004 (Psychology)  
 
 **Contact information and Piazza**:  
 We use Piazza for questions and class discussion. Piazza gets you help efficiently from classmates, the TA, and the instructors. Rather than emailing questions to the teaching staff, please post your questions on Piazza.
@@ -33,8 +34,7 @@ If you have a question that isn't suitable for Piazza and there is a need to ema
 **Office hours (via Zoom. Look for links posted on Piazza)**:  
 Todd Gureckis (TBD)  
 Brenden Lake (TBD)  
-Guy Davidson (TBD)  
-Aysja Johnson (TBD)  
+Guy Davidson (TBD)   
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
@@ -53,7 +53,7 @@ The final grade is based on the homeworks (60%) and the final project (40%).
 Class participation may be used to decide grades in borderline cases.   
 
 ## Final Project
-The final project proposal is due Monday, April 6 (0.5 pages written). Please submit via email to instructors-ccm-spring2021@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf. Make sure to include the names of all of your group members at the top of the document too.
+The final project proposal is due Monday, April 5 (0.5 pages written). Please submit via email to instructors-ccm-spring2021@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf. Make sure to include the names of all of your group members at the top of the document too.
 
 The final project is due Wednesday 5/12. Please submit via email to instructors-ccm-spring2021@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf. Make sure to include the names of all of your group members at the top of the document too.
 
@@ -83,13 +83,14 @@ Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)
 - Mon Mar 22: Bayesian modeling (part 2)
 - Mon Mar 29: Model comparison and fitting, tricks of the trade
 - Mon Apr 05: Categorization
+  - Project proposal is due
   - Homework 4 assigned (Due 4/19) (instructions for accessing [here](retrieving_hw.md))
 - Mon Apr 12: Probabilistic Graphical models
 - Mon Apr 19: No class, Long Weekend (Spring Break Replacement)
 - Mon Apr 26: Information sampling and active learning
 - Mon May 03: Program induction and language of thought models 
 - Mon May 10: Computational Cognitive Neuroscience
-- Final project due (Due 5/12)
+- Final project due (Due Wed 5/12)
 
 
 ## Lab schedule
