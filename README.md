@@ -1,21 +1,21 @@
 **Instructors**: [Brenden Lake](https://cims.nyu.edu/~brenden/) and [Todd Gureckis](http://psych.nyu.edu/gureckis/)
 
-**Teaching Assistants**: Guy Davidson
+**Teaching Assistants**: Guy Davidson and Aysja Johnson
 
 **Meeting time and location**:  
-We have a "flipped classroom" model for lecture  
-Lecture is pre-recorded and available on Vimeo  
-Live discussion is blended on Mondays 1:35-2:35 PM  
-In person GCASL_C95 - Global Center for Academic & Spiritual Life, 238 Thompson Street (capacity = 56)
-Zoom link in NYU Classes
 
-Labs (we have two times for people with time zone issues, attend one):  
-Option1: Tuesday 8am-8:50am  
-Online, Zoom link in NYU Classes. 
+**Lecture.** We have a "flipped classroom" model.
+Lectures will be pre-recorded and available to watch on Vimeo.  
+Live discussion of the lectures is blended on Mondays 1:35-2:35 PM.  
+In person GCASL_C95 - Global Center for Academic & Spiritual Life, 238 Thompson Street (capacity = 56).
+Zoom link in NYU Classes.
+
+**Labs.** We have two times. Attend only one, whichever is convenient for you.  
+Option 1: Tuesdays 8:00-8:50 AM  
+Online, Zoom link in NYU Classes.  
 
 Option 2: Tuesdays 2:40-3:30 PM  
-Blended (60FA, capacity 17 students) also can access via the Zoom link in NYU Classes
-
+Blended (60FA, capacity 17 students) also can access via the Zoom link in NYU Classes.  
 
 **Course numbers**:  
 DS-GA 1016 (Data Science)  
@@ -31,10 +31,10 @@ Once signed up, our class Piazza page is available here ([TBD](TBD)).
 If you have a question that isn't suitable for Piazza and there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2021@nyuccl.org
 
 **Office hours (via Zoom. Look for links posted on Piazza)**:  
-Todd Gureckis (Tuesday at 1-2pm eastern)  
-Brenden Lake (Tuesdays at 10-11am eastern)  
-Yanli Zhou (Wednesdays at 1-2pm eastern)  
-Graham Flick (Wednesdays at 3-4pm eastern)
+Todd Gureckis (TBD)  
+Brenden Lake (TBD)  
+Guy Davidson (TBD)  
+Aysja Johnson (TBD)  
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
@@ -45,21 +45,21 @@ Please note that this syllabus is not final and there may be further adjustments
 ## Pre-requisites
 - Math: We will use concepts from linear algebra, calculus, and probability. If you had linear algebra and calculus as an undergrad, or if you have taken Math Tools in the psychology department, you will be in a good position for approaching the material. Familiarity with probability is also assumed. We will review some of the basic technical concepts in lab.
 
-- Programming: Previous experience with Python is required. The assignments will use Python 3 and Jupyter Notebooks (http://jupyter.org). We will have a Python refresher in lab, and we also recommend this tutorial (http://openbookproject.net/thinkcs/python/english3e/).
+- Programming: Previous experience with Python is required. Previous IN CLASS experience with Python is strongly recommend---it’s assumed you know how to program in Python. The assignments will use Python 3 and Jupyter Notebooks (http://jupyter.org)
 
 ## Grading
-The final grade is based on the homeworks (60%) and the final project (40%). We also added this policy: We will drop the lowest grade (in percent correct) from the four homework assignments.
+The final grade is based on the homeworks (60%) and the final project (40%).   
 
-Class participation will be used to decide grades in borderline cases. As we only meet once a week, class attendance is obviously important for success in the class.
+Class participation may be used to decide grades in borderline cases.   
 
 ## Final Project
-The final project proposal is due Monday, April 6 (0.5 pages written). Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
+The final project proposal is due Monday, April 6 (0.5 pages written). Please submit via email to instructors-ccm-spring2021@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf. Make sure to include the names of all of your group members at the top of the document too.
 
-The final project is due Wednesday 5/12. Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf.
+The final project is due Wednesday 5/12. Please submit via email to instructors-ccm-spring2021@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf. Make sure to include the names of all of your group members at the top of the document too.
 
 The final project will be done in groups of 3-4 students. A short paper will be turned in describing the project (approximately 6 pages). The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a cognitive modeling project related to your research.  We provide a list of project ideas [here](final_project_ideas.md), but of course you do not have to choose from this list.
 
-**The final project must relate to computational cognitive modeling and cannot be a purely machine learning / data science project.** Thus, your project must connect, in some way, to the human mind and behavior. This could be collecting (informally) behavioral data to compare your computational model to. Or you could compare your model against results in the litearture or particular dataset of human behavior or ratings. Or you could compare your algorithm with human intelligence in a more abstract sense. There are many ways to make the connection, but your final project must connect to computational cognitive modeling.
+**The final project must relate to computational cognitive modeling and cannot be a purely machine learning / data science project.** Thus, your project must connect, in some way, to the human mind and behavior. This could be collecting (informally) behavioral data to compare your computational model to. Or you could compare your model against results in the literature or particular dataset of human behavior or ratings. Or you could compare your algorithm with human intelligence in a more abstract sense. There are many ways to make the connection, but your final project must connect to computational cognitive modeling.
 
 Write-ups should be organized and written as a scientific paper. It must include the following sections: Introduction (with review of related work), Methods/Models, Results, and Discussion/Conclusion. A good example would be to follow the structure of this paper from the class readings:
 - Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society. [link here](http://cocosci.berkeley.edu/jpeterson/pdf/peterson-cogsci2016-adapting-deep.pdf)
@@ -69,27 +69,27 @@ Code submission is not required for the final project.
 ## Lecture schedule
 Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)  
 
-- Mon Feb 01: Introduction ([slides](lectures/lecture-01-introduction.pdf))
-- Mon Feb 08: Neural networks / Deep learning (part 1) ([slides](lectures/lecture-02-neural_nets.pdf))
-  - Homework 1 assigned on 2/5 (Due 2/24) (instructions for accessing [here](retrieving_hw.md))
+- Mon Feb 01: Introduction
+- Mon Feb 08: Neural networks / Deep learning (part 1)
+  - Homework 1 assigned on 2/8 (Due 2/22) (instructions for accessing [here](retrieving_hw.md))
 - Mon Feb 15: No class, President's Day
-- Mon Feb 22: Reinforcement learning (part 1) ([slides](lectures/lecture-04-reinforcementlearning.pdf))
-- Mon Mar 01: Reinforcement learning (part 2) ([slides](lectures/lecture-05-reinforcementlearning.pdf))
-  - Homework 2 assigned (Due 3/27) (instructions for accessing [here](retrieving_hw.md))
-- Mon Mar 08: Reinforcement learning (part 3) ([slides](lectures/lecture-06-reinforcementlearning.pdf))
-- Mon Mar 15: Bayesian modeling (part 1) ([slides](lectures/lecture-07-bayesian_modeling.pdf))
-  - Homework 3 assigned (Due 4/13) (instructions for accessing [here](retrieving_hw.md))
-- Mon Mar 22: Bayesian modeling (part 2) (for slides see part 1)
-- Mon Mar 29: Model comparison and fitting, tricks of the trade ([slides](lectures/lecture-09-modelfit.pdf))
-- Mon Apr 05: Categorization ([slides](lectures/lecture-10-categorization.pdf))
-  - Homework 4 assigned (Due 5/4) (instructions for accessing [here](retrieving_hw.md))
-- Mon Apr 12: Probabilistic Graphical models ([slides](lectures/lecture-11-graphical_models.pdf))
+- **Thursday Feb 18** (Legislative Day, with Monday schedule): Neural networks / Deep learning (part 2)
+- Mon Feb 22: Reinforcement learning (part 1)
+- Mon Mar 01: Reinforcement learning (part 2)
+  - Homework 2 assigned (Due 3/15) (instructions for accessing [here](retrieving_hw.md))
+- Mon Mar 08: Reinforcement learning (part 3)
+- Mon Mar 15: Bayesian modeling (part 1)
+  - Homework 3 assigned (Due 3/29) (instructions for accessing [here](retrieving_hw.md))
+- Mon Mar 22: Bayesian modeling (part 2)
+- Mon Mar 29: Model comparison and fitting, tricks of the trade
+- Mon Apr 05: Categorization
+  - Homework 4 assigned (Due 4/19) (instructions for accessing [here](retrieving_hw.md))
+- Mon Apr 12: Probabilistic Graphical models
 - Mon Apr 19: No class, Long Weekend (Spring Break Replacement)
-- Mon Apr 26: Information sampling and active learning ([slides](lectures/lecture-12-activelearning.pdf))
-- Mon May 03: Program induction and language of thought models ([slides](lectures/lecture-13-program_induction.pdf))
-- Thu May 06: Computational Cognitive Neuroscience([slides](lectures/lecture-14-computational_cognitive_neuroscience.pdf))  Note special date, Legislative Day (classes meet on Monday schedule)
-- Mon May 10: Conclusion/summary video ([slides](lectures/conclusion.pdf))
-- Final project due (Wednesday 5/12)
+- Mon Apr 26: Information sampling and active learning
+- Mon May 03: Program induction and language of thought models 
+- Mon May 10: Computational Cognitive Neuroscience
+- Final project due (Due 5/12)
 
 
 ## Lab schedule
@@ -97,18 +97,18 @@ Tuesdays 8am-8:50am (online via NYU Zoom only) OR 2:40-3:30 PM (in person and vi
 
 - Tue Feb 02, Python and Jupyter notebooks review
 - Tue Feb 09, Introduction to PyTorch
-- Tue Feb 16, No lab
-- Tue Feb 23, HW 1 Review
-- Tue Mar 02, No lab
-- Tue Mar 09, Reinforcement learning
-- Tue Mar 16, HW 2 Review
-- Tue Mar 23, No lab
-- Tue Mar 30, Probability review
-- Tue Apr 06, No lab
-- Tue Apr 13, HW 3 Review
-- Tue Apr 20, No lab
-- Tue Apr 27, HW 4 Review
-- Tue May 04, No lab
+- Tue Feb 16, TBD
+- Tue Feb 23, TBD
+- Tue Mar 02, TBD
+- Tue Mar 09, TBD
+- Tue Mar 16, TBD
+- Tue Mar 23, TBD
+- Tue Mar 30, TBD
+- Tue Apr 06, TBD
+- Tue Apr 13, TBD
+- Tue Apr 20, TBD
+- Tue Apr 27, TBD
+- Tue May 04, TBD
 
 
 ## Readings and slides
@@ -163,19 +163,16 @@ Brains, Minds and Machines (CBMM).
 ## Course policies and FAQ
 
 **Auditing**:  
-We can't accommodate more auditors at this point.
+We can't accommodate in-person auditors.
 
 **Collaboration and honor code**:  
 We take the collaboration policy and [academic integrity](https://cas.nyu.edu/content/nyu-as/cas/academic-integrity.html) very seriously. Violations of the policy will result in zero points and possible disciplinary referral. You may discuss the homework assignments with your classmates, but **you must run the simulations and complete the write-ups for the homeworks on your own.** Under no circumstance should students look at each other’s code or write ups, or code/write-ups from previous years of this course. Do not share your write up or code with any of your classmates under any circumstances.
-
-**Dropping your lowest homework**:  
-At the end of the semester, we will drop your lowest homework grade (in terms of % correct). We still encourage you to complete all of the homeworks, as we designed them to help solidify the course material and we hope they will be valuable to you. However this drop policy gives you flexibility if unexpected circumstances arise.
 
 **Late work**:  
 We will take off 10% for each day a homework or final project is late. Assignments should be turned in all-at-once and not in pieces. If an assignment is incomplete and later completed, the late penalty is applied to the entire assignment.
 
 **Extensions**:  
-If you are requesting an extension, email the teaching team (instructors-ccm-spring2020@nyuccl.org) and explain the reason. You must submit a request for extension at least 24 hours before the due date of the assignment.
+If you are requesting an extension, email the teaching team (instructors-ccm-spring2021@nyuccl.org) and explain the reason. You must submit a request for extension at least 24 hours before the due date of the assignment.
 
 **Regrading**:  
 If you feel there was a mistake in the grading of your assignment, you can formally request a regrade by emailing the teaching team. This will prompt us to regrade the entire assignment and could lead to your grade being either raised or lowered depending on what the regrade finds. You can submit a regrade request via gradescope.
@@ -187,4 +184,4 @@ Before turning in your assignment, double check that all of your answers appear 
 No extra credit will be given, out of interest of fairness.
 
 ## Preconfigured cloud environment
-Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids [here](https://dsgs-3001005.rcnyu.org).
+Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids [TBD](TBD).
