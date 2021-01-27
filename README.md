@@ -1,8 +1,8 @@
 # Computational cognitive modeling - Spring 2021
 
-**Instructors**: [Brenden Lake](https://cims.nyu.edu/~brenden/) and [Todd Gureckis](http://psych.nyu.edu/gureckis/)
+**Instructors**: [Brenden Lake](https://cims.nyu.edu/~brenden/) and [Todd Gureckis](http://gureckislab.org)
 
-**Teaching Assistants**: [Guy Davidson](https://guydavidson.me/)
+**Teaching Assistants**: [Guy Davidson](https://guydavidson.me/) and Aysja Johnson
 
 **Meeting time and location**:  
 **Lecture.** We have a "flipped classroom" model.
@@ -22,19 +22,20 @@ Blended (60FA, capacity 17 students) also can access via the Zoom link in NYU Cl
 DS-GA 1016.003 (Data Science)  
 PSYCH-GA 3405.004 (Psychology)  
 
-**Contact information and Piazza**:  
-We use Piazza for questions and class discussion. Piazza gets you help efficiently from classmates, the TA, and the instructors. Rather than emailing questions to the teaching staff, please post your questions on Piazza.
+**Contact information and EdStem**:  
+We use EdStem for questions and class discussion. EdStem gets you help efficiently from classmates, the TA, and the instructors. Rather than emailing questions to the teaching staff, please post your questions on EdStem.
 
-The signup link for our Piazza page is available here ([TBD](TBD)).
+The signup link for our EdStem page is available here ([https://edstem.org/us/join/v3nFw8](https://edstem.org/us/join/v3nFw8)).
 
-Once signed up, our class Piazza page is available here ([TBD](TBD)).
+Once signed up, our class EdStem page is available here ([https://edstem.org/us/courses/4281/discussion/](https://edstem.org/us/courses/4281/discussion/)).
 
-If you have a question that isn't suitable for Piazza and there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2021@nyuccl.org
+If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2021@nyuccl.org
 
-**Office hours (via Zoom. Look for links posted on Piazza)**:  
-Todd Gureckis (TBD)  
+**Office hours (via Zoom. Look for links posted on EdStem)**:  
+Todd Gureckis (Tuesday 11-12, Wednesday 4-5, https://nyu.zoom.us/my/todd.gureckis)  
 Brenden Lake (TBD)  
-Guy Davidson (TBD)   
+Guy Davidson (TBD)
+Aysja Johnson (TBD)
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
@@ -185,4 +186,4 @@ Before turning in your assignment, double check that all of your answers appear 
 No extra credit will be given, out of interest of fairness.
 
 ## Preconfigured cloud environment
-Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids [TBD](TBD).
+Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids [https://dsga-1016003-spring.rcnyu.org](https://dsga-1016003-spring.rcnyu.org).
