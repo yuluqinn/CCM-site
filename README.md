@@ -6,7 +6,7 @@
 
 **Meeting time and location**:  
 **Lecture.** We have a "flipped classroom" model.
-Lectures will be pre-recorded and available to watch on Vimeo. Please watch the lecture *before* the date it is listed under, so that we have a productive live discussion.  
+Lectures will be pre-recorded and available to watch on Vimeo. Please watch the lecture *before* the date it is listed under, so that we have a productive live discussion. Please come ready with your questions.  
 Live discussion of the lectures is blended on Mondays 1:35-2:35 PM.  
 In person GCASL_C95 - Global Center for Academic & Spiritual Life, 238 Thompson Street (capacity = 56).  
 Zoom link in NYU Classes.
@@ -32,8 +32,8 @@ Once signed up, our class EdStem page is available here ([https://edstem.org/us/
 If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2021@nyuccl.org
 
 **Office hours (via Zoom. Look for links posted on EdStem)**:  
-Todd Gureckis (Tuesday 11-12, Wednesday 4-5, https://nyu.zoom.us/my/todd.gureckis)  
-Brenden Lake (TBD)  
+Todd Gureckis (Tuesday 11am-12, Wednesday 4-5pm, https://nyu.zoom.us/my/todd.gureckis)  
+Brenden Lake (Wednesday 1-2pm)  
 Guy Davidson (TBD)  
 Aysja Johnson (TBD)  
 
