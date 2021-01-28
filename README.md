@@ -6,9 +6,9 @@
 
 **Meeting time and location**:  
 **Lecture.** We have a "flipped classroom" model.
-Lectures will be pre-recorded and available to watch on Vimeo.  
+Lectures will be pre-recorded and available to watch on Vimeo. Please watch the lecture *before* the date it is listed under, so that we have a productive live discussion.  
 Live discussion of the lectures is blended on Mondays 1:35-2:35 PM.  
-In person GCASL_C95 - Global Center for Academic & Spiritual Life, 238 Thompson Street (capacity = 56).
+In person GCASL_C95 - Global Center for Academic & Spiritual Life, 238 Thompson Street (capacity = 56).  
 Zoom link in NYU Classes.
 
 **Labs.** We have two times. Attend only one, whichever is more convenient for you.  
@@ -34,8 +34,8 @@ If you have a question that isn't suitable for EdStem and there is a need to ema
 **Office hours (via Zoom. Look for links posted on EdStem)**:  
 Todd Gureckis (Tuesday 11-12, Wednesday 4-5, https://nyu.zoom.us/my/todd.gureckis)  
 Brenden Lake (TBD)  
-Guy Davidson (TBD)
-Aysja Johnson (TBD)
+Guy Davidson (TBD)  
+Aysja Johnson (TBD)  
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
@@ -70,7 +70,7 @@ Code submission is not required for the final project.
 ## Lecture schedule
 Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)  
 
-- Mon Feb 01: Introduction ([video](https://vimeo.com/505677077); [slides-intro](slides/lecture-01-introduction.pdf))
+- Mon Feb 01: Introduction ([video](https://vimeo.com/505677077))([slides-intro](slides/lecture-01-introduction.pdf))
 - Mon Feb 08: Neural networks / Deep learning (part 1)
   - Homework 1 assigned on 2/8 (Due 2/22) (instructions for accessing [here](retrieving_hw.md))
 - Mon Feb 15: No class, President's Day
