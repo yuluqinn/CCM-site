@@ -34,7 +34,7 @@ If you have a question that isn't suitable for EdStem and there is a need to ema
 **Office hours (via Zoom. Look for links posted on EdStem)**:  
 Todd Gureckis (Tuesday 11am-12, Wednesday 4-5pm, https://nyu.zoom.us/my/todd.gureckis)  
 Brenden Lake (Wednesday 1-2pm)  
-Guy Davidson (TBD)  
+Guy Davidson (Tuesday 1-2pm, https://nyu.zoom.us/my/{my first and last name, one word, no spaces, no curly braces})  
 Aysja Johnson (TBD)  
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
