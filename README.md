@@ -17,7 +17,7 @@ Online, Zoom link in NYU Classes.
 
 Option 2: Tuesdays 2:40-3:30 PM  
 Blended (60FA, capacity 17 students) also can access via the Zoom link in NYU Classes.  
-**Labs are remote only for the first two weeks.**) 
+(**Labs are remote only for the first two weeks.**) 
 
 **Course numbers**:  
 DS-GA 1016.003 (Data Science)  
@@ -69,7 +69,7 @@ Write-ups should be organized and written as a scientific paper. It must include
 Code submission is not required for the final project.
 
 ## Lecture schedule
-Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)  
+Live discussion is on Mondays 1:35-2:35 PM (in person and via NYU classes Zoom tool)  
 
 - Mon Feb 01: Introduction ([video](https://vimeo.com/505677077))([slides-intro](slides/lecture-01-introduction.pdf))
 - Mon Feb 08: Neural networks / Deep learning (part 1)
@@ -100,7 +100,7 @@ Tuesdays 8am-8:50am (online via NYU Zoom only) OR 2:40-3:30 PM (in person and vi
 
 - Tue Feb 02, Python and Jupyter notebooks review (**remote only this week**)
 - Tue Feb 09, Introduction to PyTorch (**remote only this week**)
-- Tue Feb 16, TBD (**in person expected to begin**)
+- Tue Feb 16, TBD
 - Tue Feb 23, TBD
 - Tue Mar 02, TBD
 - Tue Mar 09, TBD
