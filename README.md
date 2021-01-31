@@ -9,14 +9,15 @@
 Lectures will be pre-recorded and available to watch on Vimeo. Please watch the lecture *before* the date it is listed under, so that we have a productive live discussion. Please come ready with your questions.  
 Live discussion of the lectures is blended on Mondays 1:35-2:35 PM.  
 In person GCASL_C95 - Global Center for Academic & Spiritual Life, 238 Thompson Street (capacity = 56).  
-Zoom link: https://nyu.zoom.us/j/92201764817 (see also in NYU Classes), password provided on EdStem site.
+Zoom link: [https://nyu.zoom.us/j/92201764817](https://nyu.zoom.us/j/92201764817) (see also in NYU Classes), password provided on EdStem site.
 
 **Labs.** We have two times. Attend only one, whichever is more convenient for you.  
 Option 1: Tuesdays 8:00-8:50 AM  
-Online, https://nyu.zoom.us/j/94450481642 (see also in NYU Classes), password provided on EdStem site. 
+Online only, Zoom link: [https://nyu.zoom.us/j/94450481642](https://nyu.zoom.us/j/94450481642) (see also in NYU Classes), password provided on EdStem site. 
 
 Option 2: Tuesdays 2:40-3:30 PM  
-Blended (60FA, capacity 17 students): https://nyu.zoom.us/j/98468890846 (see also in NYU Classes), password provided on EdStem site. 
+Blended (60FA, capacity 17 students)  
+OR Zoom link: [https://nyu.zoom.us/j/98468890846](https://nyu.zoom.us/j/98468890846) (see also in NYU Classes), password provided on EdStem site. 
 (**Labs are remote only for the first two weeks.**) 
 
 **Course numbers**:  
