@@ -114,8 +114,8 @@ Tuesdays 8am-8:50am (online via NYU Zoom only) OR 2:40-3:30 PM (in person and vi
 - Tue May 04, TBD
 
 
-## Readings and slides
-Papers are available for download on NYU Classes in the "Resources" folder.
+## Readings
+For each major topic, there are assigned readings that go with the lectures.  The papers were selected to be fundamental readings on this topic any computational cognitive scientist would be expected to know.   You should aim to read these over the course of the semester, especially during the periods when we are covering the same topic. The papers should be downloadable on Google Scholar via NYU Library.  However, they are available for download on EdStem website under the "resources" tab (see the down pointing arrow along the top bar or [this link](https://edstem.org/us/courses/4281/resources)).
 
 **Neural networks and deep learning**
 - McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. The Appeal of Parallel Distributed Processing. Vol I, Ch 1.
