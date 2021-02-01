@@ -16,7 +16,7 @@ Option 1: Tuesdays 8:00-8:50 AM
 Online only, Zoom link: [https://nyu.zoom.us/j/94450481642](https://nyu.zoom.us/j/94450481642) (see also in NYU Classes), password provided on EdStem site. 
 
 Option 2: Tuesdays 2:40-3:30 PM  
-Blended (60FA, capacity 17 students)  
+Blended (60 Fifth Avenue, Room 150 , capacity 17 students)  
 OR Zoom link: [https://nyu.zoom.us/j/98468890846](https://nyu.zoom.us/j/98468890846) (see also in NYU Classes), password provided on EdStem site. 
 (**Labs are remote only for the first two weeks.**) 
 
@@ -25,19 +25,19 @@ DS-GA 1016.003 (Data Science)
 PSYCH-GA 3405.004 (Psychology)  
 
 **Contact information and EdStem**:  
-We use EdStem for questions and class discussion. EdStem gets you help efficiently from classmates, the TA, and the instructors. Rather than emailing questions to the teaching staff, please post your questions on EdStem.
+EdStem is the main point of contact. We use EdStem for questions and class discussion. Rather than emailing questions to the teaching staff, please post your questions on EdStem. It will get you a faster response and the answer will benefit others with the same question.
 
 The signup link for our EdStem page is available here ([https://edstem.org/us/join/v3nFw8](https://edstem.org/us/join/v3nFw8)).
 
 Once signed up, our class EdStem page is available here ([https://edstem.org/us/courses/4281/discussion/](https://edstem.org/us/courses/4281/discussion/)).
 
-If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2021@nyuccl.org
+If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: **instructors-ccm-spring2021@nyuccl.org**
 
 **Office hours (via Zoom. Look for links posted on EdStem)**:  
-Todd Gureckis (Tuesday 11am-12, Wednesday 4-5pm, https://nyu.zoom.us/my/todd.gureckis)  
-Brenden Lake (Wednesday 1-2pm)  
-Guy Davidson (Tuesday 1-2pm, https://nyu.zoom.us/my/{my first and last name, one word, no spaces, no curly braces})  
-Aysja Johnson (TBD)  
+Todd Gureckis (Tuesdays 11am-12, Wednesday 4-5pm, https://nyu.zoom.us/my/todd.gureckis)  
+Brenden Lake (Wednesdays 1-2pm)  
+Guy Davidson (Tuesdays 1-2pm, https://nyu.zoom.us/my/{my first and last name, one word, no spaces, no curly braces})  
+Aysja Johnson (Mondays 3-4pm)  
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
