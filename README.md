@@ -9,33 +9,35 @@
 Lectures will be pre-recorded and available to watch on Vimeo. Please watch the lecture *before* the date it is listed under, so that we have a productive live discussion. Please come ready with your questions.  
 Live discussion of the lectures is blended on Mondays 1:35-2:35 PM.  
 In person GCASL_C95 - Global Center for Academic & Spiritual Life, 238 Thompson Street (capacity = 56).  
-Zoom link in NYU Classes.
+Zoom link: [https://nyu.zoom.us/j/92201764817](https://nyu.zoom.us/j/92201764817) (see also in NYU Classes), password provided on EdStem site.
 
 **Labs.** We have two times. Attend only one, whichever is more convenient for you.  
 Option 1: Tuesdays 8:00-8:50 AM  
-Online, Zoom link in NYU Classes.  
+Online only, Zoom link: [https://nyu.zoom.us/j/94450481642](https://nyu.zoom.us/j/94450481642) (see also in NYU Classes), password provided on EdStem site. 
 
 Option 2: Tuesdays 2:40-3:30 PM  
-Blended (60FA, capacity 17 students) also can access via the Zoom link in NYU Classes.  
+Blended (60 Fifth Avenue, Room 150 , capacity 17 students)  
+OR Zoom link: [https://nyu.zoom.us/j/98468890846](https://nyu.zoom.us/j/98468890846) (see also in NYU Classes), password provided on EdStem site. 
+(**Labs are remote only for the first two weeks.**) 
 
 **Course numbers**:  
 DS-GA 1016.003 (Data Science)  
 PSYCH-GA 3405.004 (Psychology)  
 
 **Contact information and EdStem**:  
-We use EdStem for questions and class discussion. EdStem gets you help efficiently from classmates, the TA, and the instructors. Rather than emailing questions to the teaching staff, please post your questions on EdStem.
+EdStem is the main point of contact. We use EdStem for questions and class discussion. Rather than emailing questions to the teaching staff, please post your questions on EdStem. It will get you a faster response and the answer will benefit others with the same question.
 
 The signup link for our EdStem page is available here ([https://edstem.org/us/join/v3nFw8](https://edstem.org/us/join/v3nFw8)).
 
 Once signed up, our class EdStem page is available here ([https://edstem.org/us/courses/4281/discussion/](https://edstem.org/us/courses/4281/discussion/)).
 
-If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: instructors-ccm-spring2021@nyuccl.org
+If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: **instructors-ccm-spring2021@nyuccl.org**
 
 **Office hours (via Zoom. Look for links posted on EdStem)**:  
-Todd Gureckis (Tuesday 11am-12, Wednesday 4-5pm, https://nyu.zoom.us/my/todd.gureckis)  
-Brenden Lake (Wednesday 1-2pm)  
-Guy Davidson (Tuesday 1-2pm, https://nyu.zoom.us/my/{my first and last name, one word, no spaces, no curly braces})  
-Aysja Johnson (TBD)  
+Todd Gureckis (Tuesdays 11am-12, Wednesday 4-5pm, https://nyu.zoom.us/my/todd.gureckis)  
+Brenden Lake (Wednesdays 1-2pm)  
+Guy Davidson (Tuesdays 1-2pm, https://nyu.zoom.us/my/{my first and last name, one word, no spaces, no curly braces})  
+Aysja Johnson (Mondays 3-4pm) https://nyu.zoom.us/my/aysja.johnson
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
@@ -68,9 +70,9 @@ Write-ups should be organized and written as a scientific paper. It must include
 Code submission is not required for the final project.
 
 ## Lecture schedule
-Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)  
+Live discussion is on Mondays 1:35-2:35 PM (in person and via NYU classes Zoom tool)  
 
-- Mon Feb 01: Introduction ([video](https://vimeo.com/505677077))([slides-intro](slides/lecture-01-introduction.pdf))
+- Mon Feb 01: Introduction ([video](https://vimeo.com/505677077))([slides-intro](slides/lecture-01-introduction.pdf))([slides-logistics](slides/lecture-00-logistics.pdf))
 - Mon Feb 08: Neural networks / Deep learning (part 1)
   - Homework 1 assigned on 2/8 (Due 2/22) (instructions for accessing [here](retrieving_hw.md))
 - Mon Feb 15: No class, President's Day
@@ -97,24 +99,24 @@ Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)
 ## Lab schedule
 Tuesdays 8am-8:50am (online via NYU Zoom only) OR 2:40-3:30 PM (in person and via NYU classes Zoom tool)  
 
-- Tue Feb 02, Python and Jupyter notebooks review
-- Tue Feb 09, Introduction to PyTorch
-- Tue Feb 16, TBD
+- Tue Feb 02, Python and Jupyter notebooks review (**remote only this week**)
+- Tue Feb 09, Introduction to PyTorch (**remote only this week**)
+- Tue Feb 16, HW 1 Review
 - Tue Feb 23, TBD
 - Tue Mar 02, TBD
-- Tue Mar 09, TBD
-- Tue Mar 16, TBD
-- Tue Mar 23, TBD
+- Tue Mar 09, HW 2 Review
+- Tue Mar 16, Probability Review
+- Tue Mar 23, HW 3 Review
 - Tue Mar 30, TBD
 - Tue Apr 06, TBD
-- Tue Apr 13, TBD
+- Tue Apr 13, HW 4 Review
 - Tue Apr 20, TBD
 - Tue Apr 27, TBD
 - Tue May 04, TBD
 
 
-## Readings and slides
-Papers are available for download on NYU Classes in the "Resources" folder.
+## Readings
+For each major topic, there are assigned readings that go with the lectures.  The papers were selected to be fundamental readings on this topic any computational cognitive scientist would be expected to know.   You should aim to read these over the course of the semester, especially during the periods when we are covering the same topic. The papers should be downloadable on Google Scholar via NYU Library.  However, they are available for download on EdStem website under the "resources" tab (see the down pointing arrow along the top bar or [this link](https://edstem.org/us/courses/4281/resources)).
 
 **Neural networks and deep learning**
 - McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. The Appeal of Parallel Distributed Processing. Vol I, Ch 1.
