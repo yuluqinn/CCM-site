@@ -73,7 +73,7 @@ Code submission is not required for the final project.
 Live discussion is on Mondays 1:35-2:35 PM (in person and via NYU classes Zoom tool)  
 
 - Mon Feb 01: Introduction ([video](https://vimeo.com/505677077))([slides-intro](slides/lecture-01-introduction.pdf))([slides-logistics](slides/lecture-00-logistics.pdf))
-- Mon Feb 08: Neural networks / Deep learning (part 1)([video](https://vimeo.com/manage/videos/509292692))([slides](slides/lecture-02-neural_nets.pdf))
+- Mon Feb 08: Neural networks / Deep learning (part 1)([video](https://vimeo.com/509292692))([slides](slides/lecture-02-neural_nets.pdf))
   - Homework 1 assigned on 2/8 (Due 2/22) (instructions for accessing [here](retrieving_hw.md))
 - Mon Feb 15: No class, President's Day
 - **Thursday Feb 18** (Legislative Day, with Monday schedule): Neural networks / Deep learning (part 2)
