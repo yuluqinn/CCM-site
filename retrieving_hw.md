@@ -1,15 +1,15 @@
 # Obtaining the Homework
 
-If you are using the university provided Jupyter instance ([here](https://dsgs-3001005.rcnyu.org/)) 
+If you are using the university provided Jupyter instance ([here](https://dsga-1016003-spring.rcnyu.org)) 
 rather than your own personal computer the homeworks and other materials will automatically download into a folder in your account
-called `class_materials/from_github` each time you login.
+called `class_materials` each time you login.
 
 ## Working on the files on the JupyterHub
 
 The entire `class_materials` folder is read-only so that your work is not accidently overwritten.  Thus, you need to copy the files out of this folder to work on them.
 
-For example, to work on the first homework you would need to copy the files from `class_materials/from_github/homeworks/homework-NeuralNet`.  To do this selected "New" and then "Terminal" from the file browser interface.  Then type
-`cp -r class_materials/from_github/homeworks/homework-NeuralNet ./homework-NeuralNet`.  This will copy all the files into position.  You will need to change the folder name of the homework for other homeworks of course.
+For example, to work on the first homework you would need to copy the files from `class_materials/homeworks/homework-NeuralNet`.  To do this selected "New" and then "Terminal" from the file browser interface.  Then type
+`cp -r class_materials/homeworks/homework-NeuralNet ./homework-NeuralNet`.  This will copy all the files into position.  You will need to change the folder name of the homework for other homeworks of course.
 
 Then you can open them from the `homework-NeuralNet` (or whatever the name is) in the top directory of your JupyterHub instance.
 
