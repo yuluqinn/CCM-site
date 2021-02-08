@@ -1,6 +1,7 @@
 *.sublime-*
 _*.py
 temp.py
+test.py
 .ipynb_checkpoints/
 *.bbl
 *.aux
