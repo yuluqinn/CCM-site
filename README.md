@@ -101,7 +101,7 @@ Tuesdays 8am-8:50am (online via NYU Zoom only) OR 2:40-3:30 PM (in person and vi
 
 - Tue Feb 02, Python and Jupyter notebooks review (**remote only this week**)
 - Tue Feb 09, Introduction to PyTorch (**remote only this week**)
-- Tue Feb 16, HW 1 Review
+- Tue Feb 16, HW 1 Review (**remote only this week**)
 - Tue Feb 23, TBD
 - Tue Mar 02, TBD
 - Tue Mar 09, HW 2 Review
