@@ -78,7 +78,7 @@ Live discussion is on Mondays 1:35-2:35 PM (in person and via NYU classes Zoom t
 - Mon Feb 15: No class, President's Day
 - **Thursday Feb 18** (Legislative Day, with Monday schedule): Neural networks / Deep learning (part 2)([video](https://vimeo.com/511984855))([slides](slides/lecture-03-neural_nets.pdf))
 - Mon Feb 22: Reinforcement learning (part 1)([video](https://vimeo.com/514843337))([slides](slides/lecture-04-reinforcementlearning.pdf))
-- Mon Mar 01: Reinforcement learning (part 2)
+- Mon Mar 01: Reinforcement learning (part 2)([video](https://vimeo.com/517775119))([slides](slides/lecture-05-reinforcementlearning.pdf))
   - Homework 2 assigned (Due 3/15) (instructions for accessing [here](retrieving_hw.md))
 - Mon Mar 08: Reinforcement learning (part 3)
 - Mon Mar 15: Bayesian modeling (part 1)
