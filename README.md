@@ -81,7 +81,7 @@ Live discussion is on Mondays 1:35-2:35 PM (in person and via NYU classes Zoom t
 - Mon Mar 01: Reinforcement learning (part 2)([video](https://vimeo.com/517775119))([slides](slides/lecture-05-reinforcementlearning.pdf))
   - Homework 2 assigned (Due 3/15) (instructions for accessing [here](retrieving_hw.md))
 - Mon Mar 08: Reinforcement learning (part 3)([video](https://vimeo.com/520229718))([slides](slides/lecture-06-reinforcementlearning.pdf))
-- Mon Mar 15: Bayesian modeling (part 1)
+- Mon Mar 15: Bayesian modeling (part 1)([video](https://vimeo.com/522075741))([slides](slides/lecture-07+08-bayesian_modeling.pdf))
   - Homework 3 assigned (Due 3/29) (instructions for accessing [here](retrieving_hw.md))
 - Mon Mar 22: Bayesian modeling (part 2)
 - Mon Mar 29: Model comparison and fitting, tricks of the trade
