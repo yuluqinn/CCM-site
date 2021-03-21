@@ -7,8 +7,7 @@
 **Meeting time and location**:  
 **Lecture.** We have a "flipped classroom" model.
 Lectures will be pre-recorded and available to watch on Vimeo. Please watch the lecture *before* the date it is listed under, so that we have a productive live discussion. Please come ready with your questions.  
-Live discussion of the lectures is blended on Mondays 1:35-2:35 PM.  
-In person GCASL_C95 - Global Center for Academic & Spiritual Life, 238 Thompson Street (capacity = 56).  
+Live discussion of the lectures takes place on zoom on Mondays 1:35-2:35 PM.  
 Zoom link: [https://nyu.zoom.us/j/92201764817](https://nyu.zoom.us/j/92201764817) (see also in NYU Classes), password provided on EdStem site.
 
 **Labs.** We have two times. Attend only one, whichever is more convenient for you.  
@@ -16,9 +15,7 @@ Option 1: Tuesdays 8:00-8:50 AM
 Online only, Zoom link: [https://nyu.zoom.us/j/94450481642](https://nyu.zoom.us/j/94450481642) (see also in NYU Classes), password provided on EdStem site. 
 
 Option 2: Tuesdays 2:40-3:30 PM  
-Blended (60 Fifth Avenue, Room 150 , capacity 17 students)  
-OR Zoom link: [https://nyu.zoom.us/j/98468890846](https://nyu.zoom.us/j/98468890846) (see also in NYU Classes), password provided on EdStem site. 
-(**Labs are remote only for the first two weeks.**) 
+Online only, Zoom link: [https://nyu.zoom.us/j/98468890846](https://nyu.zoom.us/j/98468890846) (see also in NYU Classes), password provided on EdStem site. 
 
 **Course numbers**:  
 DS-GA 1016.003 (Data Science)  
@@ -70,7 +67,7 @@ Write-ups should be organized and written as a scientific paper. It must include
 Code submission is not required for the final project.
 
 ## Lecture schedule
-Live discussion is on Mondays 1:35-2:35 PM (in person and via NYU classes Zoom tool)  
+Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)  
 
 - Mon Feb 01: Introduction ([video](https://vimeo.com/505677077))([slides-intro](slides/lecture-01-introduction.pdf))([slides-logistics](slides/lecture-00-logistics.pdf))
 - Mon Feb 08: Neural networks / Deep learning (part 1)([video](https://vimeo.com/509292692))([slides](slides/lecture-02-neural_nets.pdf))
@@ -97,11 +94,11 @@ Live discussion is on Mondays 1:35-2:35 PM (in person and via NYU classes Zoom t
 
 
 ## Lab schedule
-Tuesdays 8am-8:50am (online via NYU Zoom only) OR 2:40-3:30 PM (in person and via NYU classes Zoom tool)  
+Tuesdays 8am-8:50am OR 2:40-3:30 PM (via NYU classes Zoom tool)  
 
-- Tue Feb 02, Python and Jupyter notebooks review (**remote only this week**)
-- Tue Feb 09, Introduction to PyTorch (**remote only this week**)
-- Tue Feb 16, HW 1 Review (**remote only this week**)
+- Tue Feb 02, Python and Jupyter notebooks review
+- Tue Feb 09, Introduction to PyTorch
+- Tue Feb 16, HW 1 Review
 - Tue Feb 23, No lab
 - Tue Mar 02, Reinforcement learning
 - Tue Mar 09, HW 2 Review
