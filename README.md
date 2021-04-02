@@ -81,8 +81,8 @@ Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)
 - Mon Mar 15: Bayesian modeling (part 1)([video](https://vimeo.com/522075741))([slides](slides/lecture-07+08-bayesian_modeling.pdf))
   - Homework 3 assigned (Due 3/29) (instructions for accessing [here](retrieving_hw.md))
 - Mon Mar 22: Bayesian modeling (part 2)([video](https://vimeo.com/525081964))(shared slides with part 1)
-- Mon Mar 29: Model comparison and fitting, tricks of the trade([video](https://vimeo.com/529892560))([slides](slides/lecture-09-modelfit.pdf))
-- Mon Apr 05: Categorization
+- Mon Mar 29: Model comparison and fitting, tricks of the trade ([video](https://vimeo.com/529892560))([slides](slides/lecture-09-modelfit.pdf))
+- Mon Apr 05: Categorization ([video](https://vimeo.com/532078049))([slides](slides/lecture-10-categorization.pdf))
   - Project proposal is due
   - Homework 4 assigned (Due 4/19) (instructions for accessing [here](retrieving_hw.md))
 - Mon Apr 12: Probabilistic Graphical models
