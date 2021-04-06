@@ -85,7 +85,7 @@ Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)
 - Mon Apr 05: Categorization ([video](https://vimeo.com/532078049))([slides](slides/lecture-10-categorization.pdf))
   - Project proposal is due
   - Homework 4 assigned (Due 4/19) (instructions for accessing [here](retrieving_hw.md))
-- Mon Apr 12: Probabilistic Graphical models
+- Mon Apr 12: Probabilistic Graphical models ([video](https://vimeo.com/533696470))([slides](slides/lecture-11-pgm.pdf))
 - Mon Apr 19: No class, Long Weekend (Spring Break Replacement)
 - Mon Apr 26: Information sampling and active learning
 - Mon May 03: Program induction and language of thought models 
