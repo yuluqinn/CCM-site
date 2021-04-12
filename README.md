@@ -84,7 +84,7 @@ Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)
 - Mon Mar 29: Model comparison and fitting, tricks of the trade ([video](https://vimeo.com/529892560))([slides](slides/lecture-09-modelfit.pdf))
 - Mon Apr 05: Categorization ([video](https://vimeo.com/532078049))([slides](slides/lecture-10-categorization.pdf))
   - Project proposal is due
-  - Homework 4 assigned (Due 4/19) (instructions for accessing [here](retrieving_hw.md))
+  - Homework 4 assigned (Due 4/23) (instructions for accessing [here](retrieving_hw.md))
 - Mon Apr 12: Probabilistic Graphical models ([video](https://vimeo.com/533696470))([slides](slides/lecture-11-pgm.pdf))
 - Mon Apr 19: No class, Long Weekend (Spring Break Replacement)
 - Mon Apr 26: Information sampling and active learning
@@ -129,7 +129,7 @@ For each major topic, there are assigned readings that go with the lectures.  Th
 - Nathaniel D. Daw, John P. O'Doherty, Peter Dayan, Ben Seymour & Raymond J. Dolan (2006). Cortical substrates for exploratory decisions in humans. Nature, 441, 876-879.
 
 **Bayesian modeling**
-- Russel, S. J., and Norvig, P. Artificial Intelligence: A Modern Approach. Chapter 13, Uncertainty.
+- Russell, S. J., and Norvig, P. Artificial Intelligence: A Modern Approach. Chapter 13, Uncertainty.
 - Tenenbaum, J. B., and Griffiths, T. L. (2001). Generalization, similarity, and Bayesian inference. Behavioral and Brain Sciences, 24(4), 629-640.
 - Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to grow a mind: Statistics, structure, and abstraction. Science, 331(6022), 1279-1285.
 - Ghahramani, Z. (2015). Probabilistic machine learning and artificial intelligence. Nature, 521(7553), 452.
@@ -148,7 +148,7 @@ For each major topic, there are assigned readings that go with the lectures.  Th
 **Probabilistic graphical models**
 - Charniak (1991). Bayesian networks without tears. AI Magazine, 50-63.
 - Kemp, C., & Tenenbaum, J. B. (2008). The discovery of structural form. Proceedings of the National Academy of Sciences, 105(31), 10687-10692.
-- \[optional\]  Russel, S. J., and Norvig, P. Artificial Intelligence: A Modern Approach. Chapter 14, Probabilistic reasoning systems.
+- \[optional\]  Russell, S. J., and Norvig, P. Artificial Intelligence: A Modern Approach. Chapter 14, Probabilistic reasoning systems.
 
 **Program induction and language of thought models**
 - Ghahramani, Z. (2015). Probabilistic machine learning and artificial intelligence. Nature, 521(7553), 452.
