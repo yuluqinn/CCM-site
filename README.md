@@ -87,7 +87,7 @@ Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)
   - Homework 4 assigned (Due 4/23) (instructions for accessing [here](retrieving_hw.md))
 - Mon Apr 12: Probabilistic Graphical models ([video](https://vimeo.com/533696470))([slides](slides/lecture-11-pgm.pdf))
 - Mon Apr 19: No class, Long Weekend (Spring Break Replacement)
-- Mon Apr 26: Information sampling and active learning
+- Mon Apr 26: Information sampling and active learning ([video](https://vimeo.com/540688563))([slides](slides/lecture-12-inteventions.pdf))
 - Mon May 03: Program induction and language of thought models 
 - Mon May 10: Computational Cognitive Neuroscience
 - Final project due (Due Wed 5/12)
