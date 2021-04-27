@@ -88,7 +88,7 @@ Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)
 - Mon Apr 12: Probabilistic Graphical models ([video](https://vimeo.com/533696470))([slides](slides/lecture-11-pgm.pdf))
 - Mon Apr 19: No class, Long Weekend (Spring Break Replacement)
 - Mon Apr 26: Information sampling and active learning ([video](https://vimeo.com/540688563))([slides](slides/lecture-12-activelearning.pdf))
-- Mon May 03: Program induction and language of thought models 
+- Mon May 03: Program induction and language of thought models ([video](https://vimeo.com/542194879))([slides](slides/lecture-13-program_induction.pdf))
 - Mon May 10: Computational Cognitive Neuroscience
 - Final project due (Due Wed 5/12)
 
