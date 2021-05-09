@@ -89,7 +89,8 @@ Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)
 - Mon Apr 19: No class, Long Weekend (Spring Break Replacement)
 - Mon Apr 26: Information sampling and active learning ([video](https://vimeo.com/540688563))([slides](slides/lecture-12-activelearning.pdf))
 - Mon May 03: Program induction and language of thought models ([video](https://vimeo.com/542194879))([slides](slides/lecture-13-program_induction.pdf))
-- Mon May 10: Computational Cognitive Neuroscience
+- Mon May 10: Computational Cognitive Neuroscience ([video](https://vimeo.com/547031885))
+- Closing remarks ([video](https://vimeo.com/547124947))
 - Final project due (Due Wed 5/12)
 
 
