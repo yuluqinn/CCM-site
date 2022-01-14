@@ -1,18 +1,18 @@
 # Computational cognitive modeling - Spring 2022
 
-**Instructors**: [Brenden Lake](https://cims.nyu.edu/~brenden/)
+**Instructor**: [Brenden Lake](https://cims.nyu.edu/~brenden/)
 
 **Teaching Assistants**: Yanli Zhou and [Guy Davidson](https://guydavidson.me/)
 
 **Meeting time and location**:  
 **Lecture.** Our course will use a "flipped classroom" model. Lectures will be pre-recorded and available to watch on Vimeo, which is followed by a live discussion of the material in person (or on zoom). Please watch the lecture *before* the date it is listed under, so that we have a productive live discussion. Please come ready with your questions.  
-Live discussion of the lectures is on Mondays 10-11 AM. You can attend in person at 60 5th Ave Room 150. There is also a zoom option (link available on the class brightspace). 
+Live discussion of the lectures is on Mondays 10-11 AM. You can attend in person at 60 5th Ave Room 150. There is also a zoom option (links available on the class brightspace). 
 
 **Labs.** 
-Tuesdays 1:30-2:20 PM. You can attend in person at the Silver Center Room 520 or on zoom (link available on class brightspace).
+Tuesdays 1:30-2:20 PM. You can attend in person at the Silver Center Room 520 or on zoom (links available on class brightspace).
 
 **Course numbers**:  
-DS-GA 1016.003 (Data Science)  
+DS-GA 1016 (Data Science)  
 PSYCH-GA 3405.004 (Psychology)  
 
 **Contact information and EdStem**:  
@@ -25,7 +25,7 @@ Once signed up, our class EdStem page is available here ([https://edstem.org/us/
 If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: **instructors-ccm-spring2022@googlegroups.com**
 
 **Office hours (via Zoom. Look for links posted on EdStem)**:    
-Brenden Lake (TBD)
+Brenden Lake (TBD)  
 Yanli Zhou (TBD)  
 Guy Davidson (TBD)
 
@@ -55,7 +55,7 @@ The final project will be done in groups of 3-4 students. A short paper will be 
 **The final project must relate to computational cognitive modeling and cannot be a purely machine learning / data science project.** Thus, your project must connect, in some way, to the human mind and behavior. This could be collecting (informally) behavioral data to compare your computational model to. Or you could compare your model against results in the literature or particular dataset of human behavior or ratings. Or you could compare your algorithm with human intelligence in a more abstract sense. There are many ways to make the connection, but your final project must connect to computational cognitive modeling.
 
 Write-ups should be organized and written as a scientific paper. It must include the following sections: Introduction (with review of related work), Methods/Models, Results, and Discussion/Conclusion. A good example would be to follow the structure of this paper from the class readings:
-- Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society. [link here](http://cocosci.berkeley.edu/jpeterson/pdf/peterson-cogsci2016-adapting-deep.pdf)
+- Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society. [link here](https://arxiv.org/abs/1608.02164)
 
 Code submission is not required for the final project.
 
