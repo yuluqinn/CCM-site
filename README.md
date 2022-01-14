@@ -1,21 +1,15 @@
-# Computational cognitive modeling - Spring 2021
+# Computational cognitive modeling - Spring 2022
 
-**Instructors**: [Brenden Lake](https://cims.nyu.edu/~brenden/) and [Todd Gureckis](http://gureckislab.org)
+**Instructors**: [Brenden Lake](https://cims.nyu.edu/~brenden/)
 
-**Teaching Assistants**: [Guy Davidson](https://guydavidson.me/) and Aysja Johnson
+**Teaching Assistants**: Yanli Zhou and [Guy Davidson](https://guydavidson.me/)
 
 **Meeting time and location**:  
-**Lecture.** We have a "flipped classroom" model.
-Lectures will be pre-recorded and available to watch on Vimeo. Please watch the lecture *before* the date it is listed under, so that we have a productive live discussion. Please come ready with your questions.  
-Live discussion of the lectures takes place on zoom on Mondays 1:35-2:35 PM.  
-Zoom link: [https://nyu.zoom.us/j/92201764817](https://nyu.zoom.us/j/92201764817) (see also in NYU Classes), password provided on EdStem site.
+**Lecture.** Our course will use a "flipped classroom" model. Lectures will be pre-recorded and available to watch on Vimeo, which is followed by a live discussion of the material in person (or on zoom). Please watch the lecture *before* the date it is listed under, so that we have a productive live discussion. Please come ready with your questions.  
+Live discussion of the lectures is on Mondays 10-11 AM. You can attend in person at 60 5th Ave Room 150. There is also a zoom option (link available on the class brightspace). 
 
-**Labs.** We have two times. Attend only one, whichever is more convenient for you.  
-Option 1: Tuesdays 8:00-8:50 AM  
-Online only, Zoom link: [https://nyu.zoom.us/j/94450481642](https://nyu.zoom.us/j/94450481642) (see also in NYU Classes), password provided on EdStem site. 
-
-Option 2: Tuesdays 2:40-3:30 PM  
-Online only, Zoom link: [https://nyu.zoom.us/j/98468890846](https://nyu.zoom.us/j/98468890846) (see also in NYU Classes), password provided on EdStem site. 
+**Labs.** 
+Tuesdays 1:30-2:20 PM. You can attend in person at the Silver Center Room 520 or on zoom (link available on class brightspace).
 
 **Course numbers**:  
 DS-GA 1016.003 (Data Science)  
@@ -24,17 +18,16 @@ PSYCH-GA 3405.004 (Psychology)
 **Contact information and EdStem**:  
 EdStem is the main point of contact. We use EdStem for questions and class discussion. Rather than emailing questions to the teaching staff, please post your questions on EdStem. It will get you a faster response and the answer will benefit others with the same question.
 
-The signup link for our EdStem page is available here ([https://edstem.org/us/join/v3nFw8](https://edstem.org/us/join/v3nFw8)).
+The signup link for our EdStem page is available here ([https://edstem.org/us/join/KPspc2](https://edstem.org/us/join/KPspc2)).
 
-Once signed up, our class EdStem page is available here ([https://edstem.org/us/courses/4281/discussion/](https://edstem.org/us/courses/4281/discussion/)).
+Once signed up, our class EdStem page is available here ([https://edstem.org/us/courses/18607/discussion/](https://edstem.org/us/courses/18607/discunssio//)).
 
 If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: **instructors-ccm-spring2021@nyuccl.org**
 
-**Office hours (via Zoom. Look for links posted on EdStem)**:  
-Todd Gureckis (Tuesdays 11am-12, Wednesday 4-5pm, https://nyu.zoom.us/my/todd.gureckis)  
-Brenden Lake (Wednesdays 1-2pm)  
-Guy Davidson (Tuesdays 1-2pm, link on EdStem)
-Aysja Johnson (Mondays 3-4pm) https://nyu.zoom.us/my/aysja.johnson
+**Office hours (via Zoom. Look for links posted on EdStem)**:    
+Brenden Lake (TBD)
+Yanli Zhou (TBD)  
+Guy Davidson (TBD)
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
@@ -48,14 +41,14 @@ Please note that this syllabus is not final and there may be further adjustments
 - Programming: Previous experience with Python is required. Previous IN CLASS experience with Python is strongly recommend---it’s assumed you know how to program in Python. The assignments will use Python 3 and Jupyter Notebooks (http://jupyter.org)
 
 ## Grading
-The final grade is based on the homeworks (60%) and the final project (40%).   
+The final grade is based on the homeworks (65%) and the final project (35%).   
 
 Class participation may be used to decide grades in borderline cases.   
 
 ## Final Project
-The final project proposal is due Monday, April 5 (0.5 pages written). Please submit via email to instructors-ccm-spring2021@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf. Make sure to include the names of all of your group members at the top of the document too.
+The final project proposal is due April 11 (0.5 pages written). Please submit via email to instructors-ccm-spring2021@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf. Make sure to include the names of all of your group members at the top of the document too.
 
-The final project is due Wednesday 5/12. Please submit via email to instructors-ccm-spring2021@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf. Make sure to include the names of all of your group members at the top of the document too.
+The final project is due May 11. Please submit via email to instructors-ccm-spring2021@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf. Make sure to include the names of all of your group members at the top of the document too.
 
 The final project will be done in groups of 3-4 students. A short paper will be turned in describing the project (approximately 6 pages). The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a cognitive modeling project related to your research.  We provide a list of project ideas [here](final_project_ideas.md), but of course you do not have to choose from this list.
 
@@ -67,54 +60,70 @@ Write-ups should be organized and written as a scientific paper. It must include
 Code submission is not required for the final project.
 
 ## Lecture schedule
-Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)  
+Live discussion is on Mondays 10-11 AM
 
-- Mon Feb 01: Introduction ([video](https://vimeo.com/505677077))([slides-intro](slides/lecture-01-introduction.pdf))([slides-logistics](slides/lecture-00-logistics.pdf))
-- Mon Feb 08: Neural networks / Deep learning (part 1)([video](https://vimeo.com/509292692))([slides](slides/lecture-02-neural_nets.pdf))
-  - Homework 1 assigned on 2/8 (Due 2/22) (instructions for accessing [here](retrieving_hw.md))
-- Mon Feb 15: No class, President's Day
-- **Thursday Feb 18** (Legislative Day, with Monday schedule): Neural networks / Deep learning (part 2)([video](https://vimeo.com/511984855))([slides](slides/lecture-03-neural_nets.pdf))
-- Mon Feb 22: Reinforcement learning (part 1)([video](https://vimeo.com/514843337))([slides](slides/lecture-04-reinforcementlearning.pdf))
-- Mon Mar 01: Reinforcement learning (part 2)([video](https://vimeo.com/517775119))([slides](slides/lecture-05-reinforcementlearning.pdf))
-  - Homework 2 assigned (Due 3/15) (instructions for accessing [here](retrieving_hw.md))
-- Mon Mar 08: Reinforcement learning (part 3)([video](https://vimeo.com/520229718))([slides](slides/lecture-06-reinforcementlearning.pdf))
-- Mon Mar 15: Bayesian modeling (part 1)([video](https://vimeo.com/522075741))([slides](slides/lecture-07+08-bayesian_modeling.pdf))
-  - Homework 3 assigned (Due 3/29) (instructions for accessing [here](retrieving_hw.md))
-- Mon Mar 22: Bayesian modeling (part 2)([video](https://vimeo.com/525081964))(shared slides with part 1)
-- Mon Mar 29: Model comparison and fitting, tricks of the trade ([video](https://vimeo.com/529892560))([slides](slides/lecture-09-modelfit.pdf))
-- Mon Apr 05: Categorization ([video](https://vimeo.com/532078049))([slides](slides/lecture-10-categorization.pdf))
+- Mon. Jan 24: Introduction
+ <!-- ([video](/505677077))([slides-intro](slides/lecture-01-introduction.pdf))([slides-logistics](slides/lecture-00-logistics.pdf)) -->
+- Mon. Jan 31: Neural networks / Deep learning (part 1)
+<!-- ([video](/509292692))([slides](slides/lecture-02-neural_nets.pdf)) -->
+  - Homework 1 assigned (Due 2/14) (instructions for accessing [here](retrieving_hw.md))
+- Mon. Feb. 7: Neural networks / Deep learning (part 2)
+<!-- ([video](/511984855))([slides](slides/lecture-03-neural_nets.pdf)) -->
+- Mon. Feb. 14: Reinforcement learning (part 1)
+<!-- ([video](/514843337))([slides](slides/lecture-04-reinforcementlearning.pdf)) -->
+- Mon. Feb. 21: No class, Presidents' Day
+- Mon. Feb. 28: Reinforcement learning (part 2)
+<!-- [video](/517775119))([slides](slides/lecture-05-reinforcementlearning.pdf)) -->
+  - Homework 2 assigned (Due 3/21)
+  <!-- (instructions for accessing [here](retrieving_hw.md)) -->
+- Mon. Mar. 7: Reinforcement learning (part 3)
+<!-- ([video](/520229718))([slides](slides/lecture-06-reinforcementlearning.pdf)) -->
+- Mon. Mar. 14: No class, Spring break
+- Mon. Mar 21: Bayesian modeling (part 1)
+<!-- ([video](/522075741))([slides](slides/lecture-07+08-bayesian_modeling.pdf)) -->
+  - Homework 3 assigned (Due 4/4) (instructions for accessing [here](retrieving_hw.md))
+- Mon. Mar 28: Bayesian modeling (part 2)
+<!-- ([video](/525081964))(shared slides with part 1) -->
+- Mon. Apr 4: Model comparison and fitting, tricks of the trade
+<!-- ([video](/529892560))([slides](slides/lecture-09-modelfit.pdf)) -->
+- Mon. Apr 11: Categorization
+<!-- ([video](/532078049))([slides](slides/lecture-10-categorization.pdf)) -->
   - Project proposal is due
-  - Homework 4 assigned (Due 4/23) (instructions for accessing [here](retrieving_hw.md))
-- Mon Apr 12: Probabilistic Graphical models ([video](https://vimeo.com/533696470))([slides](slides/lecture-11-pgm.pdf))
-- Mon Apr 19: No class, Long Weekend (Spring Break Replacement)
-- Mon Apr 26: Information sampling and active learning ([video](https://vimeo.com/540688563))([slides](slides/lecture-12-activelearning.pdf))
-- Mon May 03: Program induction and language of thought models ([video](https://vimeo.com/542194879))([slides](slides/lecture-13-program_induction.pdf))
-- Mon May 10: Computational Cognitive Neuroscience ([video](https://vimeo.com/547031885))([slides](slides/lecture-14-computational_cognitive_neuroscience.pdf))
-- Closing remarks ([video](https://vimeo.com/547124947))
-- Final project due (Due Wed 5/12)
+  - Homework 4 assigned (Due 4/25) (instructions for accessing [here](retrieving_hw.md))
+- Mon. Apr 18: Probabilistic Graphical models
+<!-- ([video](/533696470))([slides](slides/lecture-11-pgm.pdf)) -->
+- Mon. Apr 25: Information sampling and active learning
+<!-- ([video](/540688563))([slides](slides/lecture-12-activelearning.pdf)) -->
+- Mon May 2: Program induction and language of thought models
+<!-- [video](/542194879))([slides](slides/lecture-13-program_induction.pdf)) -->
+- Mon May 9: Computational Cognitive Neuroscience
+<!-- ([video](/547031885))([slides](slides/lecture-14-computational_cognitive_neuroscience.pdf)) -->
+- Final project due (Due May 11)
 
 
 ## Lab schedule
-Tuesdays 8am-8:50am OR 2:40-3:30 PM (via NYU classes Zoom tool)  
+Tuesdays 1:30-2:20 PM (in person or zoom)
 
-- Tue Feb 02, Python and Jupyter notebooks review
-- Tue Feb 09, Introduction to PyTorch
-- Tue Feb 16, HW 1 Review
-- Tue Feb 23, No lab
-- Tue Mar 02, Reinforcement learning
-- Tue Mar 09, HW 2 Review
-- Tue Mar 16, Probability Review
-- Tue Mar 23, HW 3 Review
-- Tue Mar 30, TBD
-- Tue Apr 06, TBD
-- Tue Apr 13, HW 4 Review
-- Tue Apr 20, TBD
-- Tue Apr 27, TBD
-- Tue May 04, TBD
+- Tue Jan 25, Python and Jupyter notebooks review
+- Tue Feb 01, Introduction to PyTorch
+- Tue Feb 08, HW 1 Review
+- Tue Feb 15, No lab
+- Tue Feb 22, No lab
+- Tue Mar 01, Reinforcement learning
+- Tue Mar 08, HW 2 review
+- Tues Mar 15, No lab, spring reak 
+- Tue Mar 22, Probability Review
+- Tue Mar 29, HW 3 Review
+- Tue Apr 5, TBD
+- Tue Apr 12, TBD
+- Tue Apr 19, HW 4 Review
+- Tue Apr 26, TBD
+- Tue May 3, TBD
+- Tue May 10, TBD
 
 
 ## Readings
-For each major topic, there are assigned readings that go with the lectures.  The papers were selected to be fundamental readings on this topic any computational cognitive scientist would be expected to know.   You should aim to read these over the course of the semester, especially during the periods when we are covering the same topic. The papers should be downloadable on Google Scholar via NYU Library.  However, they are available for download on EdStem website under the "resources" tab (see the down pointing arrow along the top bar or [this link](https://edstem.org/us/courses/4281/resources)).
+For each major topic, there are assigned readings that go with the lectures.  The papers were selected to be fundamental readings on this topic any computational cognitive scientist would be expected to know.   You should aim to read these over the course of the semester, especially during the periods when we are covering the same topic. The papers should be downloadable on Google Scholar via NYU Library.  However, they are available for download on EdStem website under the "resources" tab (see the down pointing arrow along the top bar or [this link](https://edstem.org/us/courses/18607/resources)).
 
 **Neural networks and deep learning**
 - McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. The Appeal of Parallel Distributed Processing. Vol I, Ch 1.
@@ -164,9 +173,6 @@ Brains, Minds and Machines (CBMM).
 
 ## Course policies and FAQ
 
-**Auditing**:  
-We can't accommodate in-person auditors.
-
 **Collaboration and honor code**:  
 We take the collaboration policy and [academic integrity](https://cas.nyu.edu/content/nyu-as/cas/academic-integrity.html) very seriously. Violations of the policy will result in zero points and possible disciplinary referral. You may discuss the homework assignments with your classmates, but **you must run the simulations and complete the write-ups for the homeworks on your own.** Under no circumstance should students look at each other’s code or write ups, or code/write-ups from previous years of this course. Do not share your write up or code with any of your classmates under any circumstances.
 
@@ -179,11 +185,11 @@ If you are requesting an extension, email the teaching team (instructors-ccm-spr
 **Regrading**:  
 If you feel there was a mistake in the grading of your assignment, you can formally request a regrade by emailing the teaching team. This will prompt us to regrade the entire assignment and could lead to your grade being either raised or lowered depending on what the regrade finds. You can submit a regrade request via gradescope.
 
-**Did you forget to turn in part of the homework, or did it print improperly?**:  
+**Did you forget to turn in part of the homework, or did it print improperly on the PDF?**:  
 Before turning in your assignment, double check that all of your answers appear clearly in the PDF printout. We will not regrade a homework because your answer did not display correctly in the version you submitted.
 
 **Extra credit**:  
 No extra credit will be given, out of interest of fairness.
 
 ## Preconfigured cloud environment
-Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids [https://dsga-1016003-spring.rcnyu.org](https://dsga-1016003-spring.rcnyu.org).
+Students registered for the course have the option of completing homework assignments on their personal computers, or in a cloud Jupyter environment with all required packages pre-installed. Students can log onto the environment using their nyu net ids [XXX](XXX).
