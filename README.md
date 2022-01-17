@@ -5,8 +5,8 @@
 **Teaching Assistants**: Yanli Zhou and [Guy Davidson](https://guydavidson.me/)
 
 **Meeting time and location**:  
-**Lecture.** Our course will use a "flipped classroom" model. Lectures will be pre-recorded and available to watch on Vimeo, which is followed by a live discussion of the material in person (or on zoom). Please watch the lecture *before* the date it is listed under, so that we have a productive live discussion. Please come ready with your questions.  
-Live discussion of the lectures is on Mondays 10-11 AM. You can attend in person at 60 5th Ave Room 150. There is also a zoom option (links available on the class brightspace). 
+**Lecture.** Our course will use a "flipped classroom" model. Lectures will be pre-recorded and available to watch on Vimeo (password on EdStem), which is followed by a live discussion of the material in person (or on zoom). Please watch the lecture *before* the date it is listed under, so that we have a productive live discussion. Please come ready with your questions.  
+Live discussion of the lectures is on **Mondays 10-11 AM**. You can attend in person at 60 5th Ave Room 150. There is also a zoom option (links available on the class brightspace). 
 
 **Labs.** 
 Tuesdays 1:30-2:20 PM. You can attend in person at the Silver Center Room 520 or on zoom (links available on class brightspace).
@@ -63,7 +63,7 @@ Code submission is not required for the final project.
 Live discussion is on Mondays 10-11 AM
 
 - Mon. Jan 24: Introduction
- <!-- ([video](/505677077))([slides-intro](slides/lecture-01-introduction.pdf))([slides-logistics](slides/lecture-00-logistics.pdf)) -->
+ ([video](https://vimeo.com/666970843))([slides-intro](slides/lecture-01-introduction.pdf))
 - Mon. Jan 31: Neural networks / Deep learning (part 1)
 <!-- ([video](/509292692))([slides](slides/lecture-02-neural_nets.pdf)) -->
   - Homework 1 assigned (Due 2/14) (instructions for accessing [here](retrieving_hw.md))
