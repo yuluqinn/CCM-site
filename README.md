@@ -22,7 +22,9 @@ EdStem is the main point of contact. We use EdStem for questions and class discu
 
 The signup link for our EdStem page is available here ([https://edstem.org/us/join/KPspc2](https://edstem.org/us/join/KPspc2)).
 
-Once signed up, our class EdStem page is available here ([https://edstem.org/us/courses/18607/discussion/](https://edstem.org/us/courses/18607/discunssio//)).
+Once signed up, our class EdStem page is available here ([https://edstem.org/us/courses/18607/discussion/](https://edstem.org/us/courses/18607/discussion/)).
+
+
 
 If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: **instructors-ccm-spring2022@googlegroups.com**
 
