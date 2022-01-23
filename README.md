@@ -67,7 +67,7 @@ Code submission is not required for the final project.
 Live discussion is on Mondays 10-11 AM. Pre-recorded lectures both from Brenden Lake and [Todd Gureckis](https://as.nyu.edu/faculty/todd-gureckis.html).
 
 - Mon. Jan 24: Introduction
- ([video](https://vimeo.com/666970843))([slides-intro](slides/lecture-01-introduction.pdf))
+ ([video](https://vimeo.com/666970843))([slides-intro](slides/lecture-01-introduction.pdf)([slides-logistics](slides/lecture-00-logistics.pdf))
 - Mon. Jan 31: Neural networks / Deep learning (part 1)
 <!-- ([video](/509292692))([slides](slides/lecture-02-neural_nets.pdf)) -->
   - Homework 1 assigned (Due 2/14) (instructions for accessing [here](retrieving_hw.md))
