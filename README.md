@@ -6,10 +6,12 @@
 
 **Meeting time and location**:  
 **Lecture.** Our course will use a "flipped classroom" model. Lectures will be pre-recorded and available to watch on Vimeo (password on EdStem), which is followed by a live discussion of the material in person (or on zoom). Please watch the lecture *before* the date it is listed under, so that we have a productive live discussion. Please come ready with your questions.  
-Live discussion of the lectures is on **Mondays 10-11 AM**. You can attend in person at 60 5th Ave Room 150. There is also a zoom option (links available on the class brightspace). 
+Live discussion of the lectures is on **Mondays 10-11 AM**. You can attend in person at 60 5th Ave Room 150. There is also a zoom option (links available on the class brightspace and EdStem). 
 
 **Labs.** 
-Tuesdays 1:30-2:20 PM. You can attend in person at the Silver Center Room 520 or on zoom (links available on class brightspace).
+Tuesdays 1:30-2:20 PM. You can attend in person at the Silver Center Room 520 or on zoom (links available on class brightspace and Edstem).
+
+**Waitlist and auditors.**  You shouldn't need access to the brightspace. All of the key info should be pinned on the class EdStem.
 
 **Course numbers**:  
 DS-GA 1016 (Data Science)  
@@ -20,7 +22,9 @@ EdStem is the main point of contact. We use EdStem for questions and class discu
 
 The signup link for our EdStem page is available here ([https://edstem.org/us/join/KPspc2](https://edstem.org/us/join/KPspc2)).
 
-Once signed up, our class EdStem page is available here ([https://edstem.org/us/courses/18607/discussion/](https://edstem.org/us/courses/18607/discunssio//)).
+Once signed up, our class EdStem page is available here ([https://edstem.org/us/courses/18607/discussion/](https://edstem.org/us/courses/18607/discussion/)).
+
+
 
 If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: **instructors-ccm-spring2022@googlegroups.com**
 
