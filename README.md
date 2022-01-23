@@ -11,7 +11,7 @@ Live discussion of the lectures is on **Mondays 10-11 AM**. You can attend in pe
 **Labs.** 
 Tuesdays 1:30-2:20 PM. You can attend in person at the Silver Center Room 520 or on zoom (links available on class brightspace and Edstem).
 
-**Waitlist and auditors.**  You shouldn't need access to the brightspace. All of the key info should be pinned on the class EdStem.
+**Brightspace access for waitlist and auditors.** You shouldn't need brightspace access unless you want to watch cloud recordings (everything else is on Edstem or this website). If you do want access, please add your email to this [spreadsheet](https://docs.google.com/spreadsheets/d/12xuNgQ17GiTM6W4GulXkqF78kbR8qX-MFooYcPksUQ0/edit?usp=sharing). We will add the emails from the spreadsheet periodically.
 
 **Course numbers**:  
 DS-GA 1016 (Data Science)  
@@ -64,7 +64,7 @@ Write-ups should be organized and written as a scientific paper. It must include
 Code submission is not required for the final project.
 
 ## Lecture schedule
-Live discussion is on Mondays 10-11 AM
+Live discussion is on Mondays 10-11 AM. Pre-recorded lectures both from Brenden Lake and [Todd Gureckis](https://as.nyu.edu/faculty/todd-gureckis.html).
 
 - Mon. Jan 24: Introduction
  ([video](https://vimeo.com/666970843))([slides-intro](slides/lecture-01-introduction.pdf))
