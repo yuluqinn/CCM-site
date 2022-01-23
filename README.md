@@ -29,7 +29,7 @@ Once signed up, our class EdStem page is available here ([https://edstem.org/us/
 If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: **instructors-ccm-spring2022@googlegroups.com**
 
 **Office hours (via Zoom. Look for links posted on EdStem)**:    
-Brenden Lake (TBD)  
+Brenden Lake (Wed 4:30-5:30PM)  
 Yanli Zhou (TBD)  
 Guy Davidson (TBD)
 
