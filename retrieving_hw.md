@@ -1,6 +1,6 @@
 # Obtaining the Homework
 
-If you are using the university provided Jupyter instance ([here](XXX)) 
+If you are using the university provided Jupyter instance ([here](https://dsga-1016-spring.rcnyu.org)) 
 rather than your own personal computer the homeworks and other materials will automatically download into a folder in your account
 called `class_materials` each time you login.
 
