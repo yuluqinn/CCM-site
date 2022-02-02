@@ -28,10 +28,10 @@ Once signed up, our class EdStem page is available here ([https://edstem.org/us/
 
 If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: **instructors-ccm-spring2022@googlegroups.com**
 
-**Office hours (via Zoom. Look for links posted on EdStem)**:    
-Brenden Lake (Wed 4:30-5:30PM)  
-Yanli Zhou (TBD)  
-Guy Davidson (TBD)
+**Office hours (via Zoom. Look for links in pinned post on EdStem)**:    
+Brenden Lake (Wed 4:30-5:30 PM)  
+Yanli Zhou (Tues 12-1 PM)  
+Guy Davidson (Thursday 2:30-3:30 PM)
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
