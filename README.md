@@ -70,7 +70,7 @@ Live discussion is on Mondays 10-11 AM. Pre-recorded lectures both from Brenden 
  ([video](https://vimeo.com/666970843))([slides-intro](slides/lecture-01-introduction.pdf)([slides-logistics](slides/lecture-00-logistics.pdf))
 - Mon. Jan 31: Neural networks / Deep learning (part 1)([video](https://vimeo.com/669931315))([slides](slides/lecture-02-neural_nets.pdf))
   - Homework 1 assigned (Due 2/14) (instructions for accessing [here](retrieving_hw.md))
-- Mon. Feb. 7: Neural networks / Deep learning (part 2)
+- Mon. Feb. 7: Neural networks / Deep learning (part 2)([video](https://vimeo.com/672863803))([slides](slides/lecture-03-neural_nets.pdf))
 <!-- ([video](/511984855))([slides](slides/lecture-03-neural_nets.pdf)) -->
 - Mon. Feb. 14: Reinforcement learning (part 1)
 <!-- ([video](/514843337))([slides](slides/lecture-04-reinforcementlearning.pdf)) -->
