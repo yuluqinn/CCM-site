@@ -72,8 +72,7 @@ Live discussion is on Mondays 10-11 AM. Pre-recorded lectures both from Brenden 
   - Homework 1 assigned (Due 2/14) (instructions for accessing [here](retrieving_hw.md))
 - Mon. Feb. 7: Neural networks / Deep learning (part 2)([video](https://vimeo.com/672863803))([slides](slides/lecture-03-neural_nets.pdf))
 <!-- ([video](/511984855))([slides](slides/lecture-03-neural_nets.pdf)) -->
-- Mon. Feb. 14: Reinforcement learning (part 1)
-<!-- ([video](/514843337))([slides](slides/lecture-04-reinforcementlearning.pdf)) -->
+- Mon. Feb. 14: Reinforcement learning (part 1)([video](https://vimeo.com/674866440))([slides](slides/lecture-04-reinforcementlearning.pdf))
 - Mon. Feb. 21: No class, Presidents' Day
 - Mon. Feb. 28: Reinforcement learning (part 2)
 <!-- [video](/517775119))([slides](slides/lecture-05-reinforcementlearning.pdf)) -->
