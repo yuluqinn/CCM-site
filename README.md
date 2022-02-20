@@ -28,10 +28,10 @@ Once signed up, our class EdStem page is available here ([https://edstem.org/us/
 
 If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: **instructors-ccm-spring2022@googlegroups.com**
 
-**Office hours (via Zoom. Look for links posted on EdStem)**:    
-Brenden Lake (Wed 4:30-5:30PM)  
-Yanli Zhou (TBD)  
-Guy Davidson (TBD)
+**Office hours (via Zoom. Look for links in pinned post on EdStem)**:    
+Brenden Lake (Wed 4:30-5:30 PM)  
+Yanli Zhou (Tues 12-1 PM)  
+Guy Davidson (Thursday 2:30-3:30 PM)
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
@@ -70,10 +70,9 @@ Live discussion is on Mondays 10-11 AM. Pre-recorded lectures both from Brenden 
  ([video](https://vimeo.com/666970843))([slides-intro](slides/lecture-01-introduction.pdf)([slides-logistics](slides/lecture-00-logistics.pdf))
 - Mon. Jan 31: Neural networks / Deep learning (part 1)([video](https://vimeo.com/669931315))([slides](slides/lecture-02-neural_nets.pdf))
   - Homework 1 assigned (Due 2/14) (instructions for accessing [here](retrieving_hw.md))
-- Mon. Feb. 7: Neural networks / Deep learning (part 2)
+- Mon. Feb. 7: Neural networks / Deep learning (part 2)([video](https://vimeo.com/672863803))([slides](slides/lecture-03-neural_nets.pdf))
 <!-- ([video](/511984855))([slides](slides/lecture-03-neural_nets.pdf)) -->
-- Mon. Feb. 14: Reinforcement learning (part 1)
-<!-- ([video](/514843337))([slides](slides/lecture-04-reinforcementlearning.pdf)) -->
+- Mon. Feb. 14: Reinforcement learning (part 1)([video](https://vimeo.com/674866440))([slides](slides/lecture-04-reinforcementlearning.pdf))
 - Mon. Feb. 21: No class, Presidents' Day
 - Mon. Feb. 28: Reinforcement learning (part 2)
 <!-- [video](/517775119))([slides](slides/lecture-05-reinforcementlearning.pdf)) -->
