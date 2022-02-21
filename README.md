@@ -71,15 +71,11 @@ Live discussion is on Mondays 10-11 AM. Pre-recorded lectures both from Brenden 
 - Mon. Jan 31: Neural networks / Deep learning (part 1)([video](https://vimeo.com/669931315))([slides](slides/lecture-02-neural_nets.pdf))
   - Homework 1 assigned (Due 2/14) (instructions for accessing [here](retrieving_hw.md))
 - Mon. Feb. 7: Neural networks / Deep learning (part 2)([video](https://vimeo.com/672863803))([slides](slides/lecture-03-neural_nets.pdf))
-<!-- ([video](/511984855))([slides](slides/lecture-03-neural_nets.pdf)) -->
 - Mon. Feb. 14: Reinforcement learning (part 1)([video](https://vimeo.com/674866440))([slides](slides/lecture-04-reinforcementlearning.pdf))
 - Mon. Feb. 21: No class, Presidents' Day
-- Mon. Feb. 28: Reinforcement learning (part 2)
-<!-- [video](/517775119))([slides](slides/lecture-05-reinforcementlearning.pdf)) -->
-  - Homework 2 assigned (Due 3/21)
-  <!-- (instructions for accessing [here](retrieving_hw.md)) -->
-- Mon. Mar. 7: Reinforcement learning (part 3)
-<!-- ([video](/520229718))([slides](slides/lecture-06-reinforcementlearning.pdf)) -->
+- Mon. Feb. 28: Reinforcement learning (part 2)[video](https://vimeo.com/679717285))([slides](slides/lecture-05-reinforcementlearning.pdf))
+  - Homework 2 assigned (Due 3/21) (instructions for accessing [here](retrieving_hw.md))
+- Mon. Mar. 7: Reinforcement learning (part 3)([video](https://vimeo.com/679717912))([slides](slides/lecture-06-reinforcementlearning.pdf))
 - Mon. Mar. 14: No class, Spring break
 - Mon. Mar 21: Bayesian modeling (part 1)
 <!-- ([video](/522075741))([slides](slides/lecture-07+08-bayesian_modeling.pdf)) -->
