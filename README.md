@@ -79,8 +79,7 @@ Live discussion is on Mondays 10-11 AM. Pre-recorded lectures both from Brenden 
 - Mon. Mar. 14: No class, Spring break
 - Mon. Mar 21: Bayesian modeling (part 1)([video](https://vimeo.com/686035229))([slides](slides/lecture-07+08-bayesian_modeling.pdf))
   - Homework 3 assigned (Due 4/4) (instructions for accessing [here](retrieving_hw.md))
-- Mon. Mar 28: Bayesian modeling (part 2)
-<!-- ([video](/525081964))(shared slides with part 1) -->
+- Mon. Mar 28: Bayesian modeling (part 2)([video](https://vimeo.com/686035353))(same slides as part 1)
 - Mon. Apr 4: Model comparison and fitting, tricks of the trade
 <!-- ([video](/529892560))([slides](slides/lecture-09-modelfit.pdf)) -->
 - Mon. Apr 11: Categorization
