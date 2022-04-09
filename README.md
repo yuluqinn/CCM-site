@@ -30,8 +30,8 @@ If you have a question that isn't suitable for EdStem and there is a need to ema
 
 **Office hours (via Zoom. Look for links in pinned post on EdStem)**:    
 Brenden Lake (Wed 4:30-5:30 PM)  
-Yanli Zhou (Tues 12-1 PM)  
-Guy Davidson (Thursday 2:30-3:30 PM)
+Yanli Zhou (Thursday 2:30-3:30 PM)  
+Guy Davidson (Tuesday 12-1 PM)
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
@@ -79,12 +79,9 @@ Live discussion is on Mondays 10-11 AM. Pre-recorded lectures both from Brenden 
 - Mon. Mar. 14: No class, Spring break
 - Mon. Mar 21: Bayesian modeling (part 1)([video](https://vimeo.com/686035229))([slides](slides/lecture-07+08-bayesian_modeling.pdf))
   - Homework 3 assigned (Due 4/4) (instructions for accessing [here](retrieving_hw.md))
-- Mon. Mar 28: Bayesian modeling (part 2)
-<!-- ([video](/525081964))(shared slides with part 1) -->
-- Mon. Apr 4: Model comparison and fitting, tricks of the trade
-<!-- ([video](/529892560))([slides](slides/lecture-09-modelfit.pdf)) -->
-- Mon. Apr 11: Categorization
-<!-- ([video](/532078049))([slides](slides/lecture-10-categorization.pdf)) -->
+- Mon. Mar 28: Bayesian modeling (part 2)([video](https://vimeo.com/686035353))(same slides as part 1)
+- Mon. Apr 4: Model comparison and fitting, tricks of the trade([video](https://vimeo.com/693685336))([slides](slides/lecture-09-modelfit.pdf))
+- Mon. Apr 11: Categorization ([video](https://vimeo.com/693682566))([slides](slides/lecture-10-categorization.pdf))
   - Project proposal is due
   - Homework 4 assigned (Due 4/25) (instructions for accessing [here](retrieving_hw.md))
 - Mon. Apr 18: Probabilistic Graphical models
@@ -111,8 +108,8 @@ Tuesdays 1:30-2:20 PM (in person or zoom)
 - Tues Mar 15, No lab, spring reak 
 - Tue Mar 22, Probability Review
 - Tue Mar 29, HW 3 Review
-- Tue Apr 5, TBD
-- Tue Apr 12, TBD
+- Tue Apr 5, No lab
+- Tue Apr 12, No lab
 - Tue Apr 19, HW 4 Review
 - Tue Apr 26, TBD
 - Tue May 3, TBD
