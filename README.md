@@ -84,8 +84,7 @@ Live discussion is on Mondays 10-11 AM. Pre-recorded lectures both from Brenden 
 - Mon. Apr 11: Categorization ([video](https://vimeo.com/693682566))([slides](slides/lecture-10-categorization.pdf))
   - Project proposal is due
   - Homework 4 assigned (Due 4/25) (instructions for accessing [here](retrieving_hw.md))
-- Mon. Apr 18: Probabilistic Graphical models
-<!-- ([video](/533696470))([slides](slides/lecture-11-pgm.pdf)) -->
+- Mon. Apr 18: Probabilistic Graphical models ([video](https://vimeo.com/698726807))([slides](slides/lecture-11-graphical_models.pdf))
 - Mon. Apr 25: Information sampling and active learning
 <!-- ([video](/540688563))([slides](slides/lecture-12-activelearning.pdf)) -->
 - Mon May 2: Program induction and language of thought models
