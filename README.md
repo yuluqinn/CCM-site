@@ -86,8 +86,7 @@ Live discussion is on Mondays 10-11 AM. Pre-recorded lectures both from Brenden 
   - Homework 4 assigned (Due 4/25) (instructions for accessing [here](retrieving_hw.md))
 - Mon. Apr 18: Probabilistic Graphical models ([video](https://vimeo.com/698726807))([slides](slides/lecture-11-graphical_models.pdf))
 - Mon. Apr 25: Information sampling and active learning ([video](https://vimeo.com/701788628))([slides](slides/lecture-12-activelearning.pdf))
-- Mon May 2: Program induction and language of thought models
-<!-- [video](/542194879))([slides](slides/lecture-13-program_induction.pdf)) -->
+- Mon May 2: Program induction and language of thought models ([video](https://vimeo.com/703333218))([slides](slides/lecture-13-program_induction.pdf))
 - Mon May 9: Computational Cognitive Neuroscience
 <!-- ([video](/547031885))([slides](slides/lecture-14-computational_cognitive_neuroscience.pdf)) -->
 - Final project due (Due May 11)
