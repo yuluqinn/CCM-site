@@ -88,7 +88,7 @@ Live discussion is on Mondays 10-11 AM. Pre-recorded lectures both from Brenden 
 - Mon. Apr 25: Information sampling and active learning ([video](https://vimeo.com/701788628))([slides](slides/lecture-12-activelearning.pdf))
 - Mon May 2: Program induction and language of thought models ([video](https://vimeo.com/703333218))([slides](slides/lecture-13-program_induction.pdf))
 - Mon May 9: Computational Cognitive Neuroscience([video](https://vimeo.com/706312739))([slides](slides/lecture-14-computational_cognitive_neuroscience.pdf))
-- Final summary ([video](https://vimeo.com/706312739))
+- Final summary ([video](https://vimeo.com/706313158))
 - Final project due (Due May 11)
 
 
