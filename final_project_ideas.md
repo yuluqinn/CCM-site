@@ -20,16 +20,14 @@ McClelland, J. L. (2013). Integrating probabilistic models of perception and int
 # Neural networks - Semantic Cognition
 
 - **Extending the semantic cognition model to a new domain**. Extend the Rogers and McClelland (2003) model of semantic cognition (Homework 1 - Part C) to a much larger dataset of semantic knowledge about objects and their properties, or to a new domain all together. For instance, you could train the network on hundreds of objects and their properties). Study the dynamics of differentiation in development (Lecture 2 Slides 67-68) or degradation when noise is added (Lecture 2 Slide 69).
-- **Object recognition and development**. Train a convolutional neural network for object recognition on a standard dataset, such as ImageNet, MiniImageNet, CIFAR-100, etc. As in the Rogers and McClelland (Homework 1 - Part C) model, study the dynamics of differentiation in development (Lecture 2 Slides 67-68) or degradation when noise is added (Lecture 2 Slide 69). Do you get the same coarse-to-fine pattern of development in an object recognition system trained for image classification?
 - **Question answering for semantic cognition**. Reimagine the Rogers and McClelland network for semantic cognition (Homework 1 - Part C) using a more contemporary neural network architecture for Question Answering. Rather than taking an “Item” layer and “Relation” layer as separate inputs and producing all of the appropriate properties on the “Attributes” layer, you would use a recurrent neural network (RNN) for question answering. This alternative architecture could simply take a yes/no question in natural language as an input, such as “Can a canary sing?”, encode the question as a vector with a RNN, and produce an answer using a single binary output unit (simply “Yes” vs. “No”). You could train this model to learn all of the same facts as the Rogers and McClelland model, or on a different set of facts. Study the dynamics of differentiation in development (Lecture 2 Slides 67-68) or degradation when noise is added (Lecture 2 Slide 69).
-- **Semantic cognition model from images (optionally, with question answering)**. Add a visual “frontend” to the Rogers and McClelland model (R&M model; Homework 1 - Part C). The R&M model assumes very high-level knowledge and categorical processing of the input data (Input is “Canary”). Is this a reasonable assumption? Rather than assuming clean input through the “Item” input layer, train the R&M architecture with a convolutional neural network frontend to take an image as input (replacing the “Item” layer), a “Relation” just as before on the Relation LAyer, in order to produce “Attributes.” For a truly extraordinary project, combine the visual frontend with the Question-Answering idea from the bullet above, training a neural network for question answering from images. Study the dynamics of differentiation in development (Lecture 2 Slides 67-68) or degradation when noise is added (Lecture 2 Slide 69).
 
 **References**  
 McClelland, J. L., & Rogers, T. T. (2003). The parallel distributed processing approach to semantic cognition. Nature Reviews Neuroscience, 4(4), 310. 
 
 # Neural networks - Language 
 
-- **Large-scale learning of lexical classes**. Can you discover lexical classes with a large-scale recurrent neural network (RNN)? Train a more contemporary recurrent neural network architecture (such as a LSTM) on a next word prediction task given a sizeable corpus of text, including thousands of sentences. Can you replicate some of the results from Elman (1990), especially the hierarchical clustering results for discovering lexical categories (Lecture 3 Slide 21)?
+- **Large-scale learning of lexical classes**. Can you discover lexical classes with a large-scale recurrent neural network (RNN)? Train a more contemporary recurrent neural network architecture (such as a LSTM) on a next word prediction task given a sizeable corpus of text, including thousands of sentences. Can you replicate some of the results from Elman (1990) on a bigger corpus, especially the hierarchical clustering results for discovering lexical categories (Lecture 3 Slide 21)?
 
 - **Exploring lexical and grammatical structure in BERT or GPT2**. What do powerful pre-trained models learn about lexical and grammatical structure? Explore the learned representations of a state-of-the-art language model  (BERT, GPT2, etc.) in systematic ways, and discuss the learned representation in relation to how children may acquire this structure through learning.
 
@@ -37,14 +35,6 @@ McClelland, J. L., & Rogers, T. T. (2003). The parallel distributed processing a
 Elman, J. L. (1990). Finding structure in time. Cognitive science, 14(2), 179-211.
 Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
 Radford et al., (2019). Language Models are Unsupervised Multitask Learners. arXiv preprint.
-
-## Neural networks - visual representations
-
-- **Comparing human and convolutional network representations for images**. With a visual domain of your choice (objects, animals, cars, etc.), use the Peterson et al. (2016) study design to compare the image similarity ratings between people and a pre-trained deep convolutional neural network trained on image recognition (as you did in Homework 1 Part D). Or, using a visual domain of your choice, use the Lake et al. (2015) study design compare typicality ratings between people and a pre-trained deep convolutional neural network trained on image recognition.
-
-**References**  
-Lake, B. M., Zaremba, W., Fergus, R. and Gureckis, T. M. (2015). Deep Neural Networks Predict Category Typicality Ratings for Images. In Proceedings of the 37th Annual Conference of the Cognitive Science Society.
-Peterson, J., Abbott, J., & Griffiths, T. (2016). Adapting Deep Network Features to Capture Psychological Representations. Presented at the 38th Annual Conference of the Cognitive Science Society.
 
 ## Bayesian modeling / Probabilistic programming - Number game
 
@@ -76,6 +66,8 @@ Dubey, R., Agrawal, P., Pathak, D., Griffiths, T. L., & Efros, A. A. (preprint).
 The Choice Prediction Challenge website: https://cpc-18.com
 
 Plonsky, Ori and Erev, Ido and Hazan, Tamir and Tennenholtz, Moshe, Psychological Forest: Predicting Human Behavior (May 19, 2016). Available at SSRN: https://ssrn.com/abstract=2816450 or http://dx.doi.org/10.2139/ssrn.2816450
+
+Joshua Peterson, David Bourgin, Mayank Agrawal, Daniel Reichman, Thomas Griffiths (2021). Using large-scale experiments and machine learning to discover theories of human decision-making. Science. https://www.science.org/doi/abs/10.1126/science.abe2629
 
 ## Categorization and Category Learning
 
