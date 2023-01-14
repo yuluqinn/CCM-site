@@ -25,8 +25,7 @@ The signup link for our EdStem page is available here (ZZZ).
 Once signed up, our class EdStem page is available here (ZZZ).
 <!-- ([https://edstem.org/us/courses/18607/discussion/](https://edstem.org/us/courses/18607/discussion/)). -->
 
-If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: ZZZ
-<!-- **instructors-ccm-spring2022@googlegroups.com** -->
+If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: **instructors-ccm-spring2023@googlegroups.com**
 
 **Office hours (via Zoom. Look for links in pinned post on EdStem)**:  
 Brenden Lake (TBD)  
@@ -51,9 +50,9 @@ The final grade is based on the homeworks (65%) and the final project (35%).
 Class participation may be used to decide grades in borderline cases.   
 
 ## Final Project
-The final project proposal is due April 10 (0.5 pages written). Please submit via email to ZZZ **with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf**. Make sure to include the names of all of your group members at the top of the document too.
+The final project proposal is due April 10 (0.5 pages written). Please submit via email to instructors-ccm-spring2023@googlegroups.com **with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf**. Make sure to include the names of all of your group members at the top of the document too.
 
-The final project is due May 10. Please submit via email to ZZZ **with the file name lastname1-lastname2-lastname3-ccm-final.pdf**. Make sure to include the names of all of your group members at the top of the document too.
+The final project is due May 10. Please submit via email to instructors-ccm-spring2023@googlegroups.com **with the file name lastname1-lastname2-lastname3-ccm-final.pdf**. Make sure to include the names of all of your group members at the top of the document too.
 
 The final project will be done in groups of 3-4 students. A short paper will be turned in describing the project (approximately 6 pages). The project will represent either an substantial extension of one of the homeworks (e.g., exploring some new aspect of one of the assignments), implementing and extending an existing cognitive modeling paper, or a cognitive modeling project related to your research.  We provide a list of project ideas [here](final_project_ideas.md), but of course you do not have to choose from this list.
 
@@ -98,7 +97,7 @@ Live lectures are
 <!-- ([slides](slides/lecture-11-graphical_models.pdf)) -->
 - Mon. Apr 24: Information sampling and active learning
 <!-- ([slides](slides/lecture-12-activelearning.pdf)) -->
-- Homework 5 assigned (Due TBD)
+  - Homework 5 assigned (Due TBD)
 - Mon May 1: Program induction and language of thought models
 <!-- ([slides](slides/lecture-13-program_induction.pdf)) -->
 - Mon May 8: Computational Cognitive Neuroscience
@@ -185,7 +184,7 @@ We take the collaboration policy and [academic integrity](https://cas.nyu.edu/co
 We will take off 10% for each day a homework or final project is late. Assignments should be turned in all-at-once and not in pieces. If an assignment is incomplete and later completed, the late penalty is applied to the entire assignment.
 
 **Extensions**:  
-If you are requesting an extension, email the teaching team (ZZZ) and explain the reason. You must submit a request for extension at least 24 hours before the due date of the assignment.
+If you are requesting an extension, email the teaching team (instructors-ccm-spring2023@googlegroups.com) and explain the reason. You must submit a request for extension at least 24 hours before the due date of the assignment.
 
 **Regrading**:  
 If you feel there was a mistake in the grading of your assignment, you can formally request a regrade by emailing the teaching team. This will prompt us to regrade the entire assignment and could lead to your grade being either raised or lowered depending on what the regrade finds. You can submit a regrade request via gradescope.
