@@ -5,10 +5,10 @@
 **Teaching Assistants**: Pat Little and Francesco Mantegna
 
 **Meeting time and location**:  
-**Lecture.** Lectures are on **Mondays 2-3:40PM** in Silver Room 405 (100 Washington Square East). Mask wearing is always welcome. There is no zoom or lecture capture; if you can't make it to class, you can email us to request last year's video.
+**Lecture.** Lectures are on **Mondays 2-3:40PM** in Silver Room 405 (100 Washington Square East). Masks are always welcome in class. There is no zoom or lecture capture; if you can't make it to class, you can email us to request last year's video (instructors-ccm-spring2023@googlegroups.com).
 
 **Labs.** 
-Tuesdays 12:30-1:20PM. Mask wearing is always welcome.
+Tuesdays 12:30-1:20PM in Silver Room 405. Masks are always welcome in class.
 
 **Brightspace access for waitlist and auditors.** Please add your email to this [spreadsheet](https://docs.google.com/spreadsheets/d/12xuNgQ17GiTM6W4GulXkqF78kbR8qX-MFooYcPksUQ0/edit?usp=sharing). We will add the emails from the spreadsheet periodically.
 
@@ -27,7 +27,7 @@ Once signed up, our class EdStem page is available here (ZZZ).
 
 If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: **instructors-ccm-spring2023@googlegroups.com**
 
-**Office hours (via Zoom. Look for links in pinned post on EdStem)**:  
+**Office hours**:  
 Brenden Lake (TBD)  
 Todd Gureckis (TBD)  
 Pat Little (TBD)  
