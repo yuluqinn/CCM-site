@@ -17,13 +17,11 @@ DS-GA 1016 (Data Science)
 PSYCH-GA 3405.004 (Psychology)  
 
 **Contact information and EdStem**:  
-EdStem is the main point of contact. We use EdStem for questions and class discussion. Rather than emailing questions to the teaching staff, please post your questions on EdStem. It will get you a faster response and the answer will benefit others with the same question.
+The [class EdStem page](https://edstem.org/us/courses/35462/discussion/) is the main point of contact. We use EdStem for questions and class discussion. Rather than emailing questions to the teaching staff, please post your questions on EdStem. It will get you a faster response and the answer will benefit others with the same question.
 
-The signup link for our EdStem page is available here (ZZZ).
-<!-- ([https://edstem.org/us/join/KPspc2](https://edstem.org/us/join/KPspc2)). -->
+Enrolled students should automatically have access to the EdStem. If for whatever reason this isn't the case for you, a signup link for our EdStem page is available here ([https://edstem.org/us/join/hnpyuz](https://edstem.org/us/join/hnpyuz)).
 
-Once signed up, our class EdStem page is available here (ZZZ).
-<!-- ([https://edstem.org/us/courses/18607/discussion/](https://edstem.org/us/courses/18607/discussion/)). -->
+Once enrolled, our class EdStem page is available here ([https://edstem.org/us/courses/35462/discussion/](https://edstem.org/us/courses/35462/discussion/)).
 
 If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: **instructors-ccm-spring2023@googlegroups.com**
 
