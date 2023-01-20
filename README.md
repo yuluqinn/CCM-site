@@ -26,10 +26,11 @@ Once enrolled, our class EdStem page is available here ([https://edstem.org/us/c
 If you have a question that isn't suitable for EdStem and there is a need to email the teaching staff directly, please use the following email address: **instructors-ccm-spring2023@googlegroups.com**
 
 **Office hours**:  
-Brenden Lake (TBD)  
-Todd Gureckis (TBD)  
-Pat Little (TBD)  
-Francesco Mantegna (TBD)
+Default is in person, but email us to request zoom if need be.  
+Brenden Lake (Thursdays (starting Feb. 2), 4:30-5:30pm, 60 5th Ave. (CDS) Room 610)  
+Todd Gureckis (Tuesdays 1-2pm in 4 Washington Pl (Meyer) 863 (although office moving soon; check))  
+Pat Little (Wednesdays 1:30-2:30pm in Meyer 863 (although office moving soon; check here for update))  
+Francesco Mantegna (Wednesdays 3:30-4:30pm in Meyer 207)
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
 
@@ -56,7 +57,7 @@ The final project will be done in groups of 3-4 students. A short paper will be 
 
 **The final project must relate to computational cognitive modeling and cannot be a purely machine learning / data science project.** Thus, your project must connect, in some way, to the human mind and behavior. This could be collecting (informally) behavioral data to compare your computational model to. Or you could compare your model against results in the literature or particular dataset of human behavior or ratings. Or you could compare your algorithm with human intelligence in a more abstract sense. There are many ways to make the connection, but your final project must connect to cognitive modeling.
 
-Write-ups should be organized and written as a scientific paper. We encourage you to use this [latex template](https://dearmond.sharepoint.com/:f:/g/ExternalSharing/EkPg3O2j_z5IlfOZVeVgokEBIWGnSOwwaCWRc8a2hNwT2g?e=dzUT29). It must include the following sections: Introduction (with review of related work), Methods/Models, Results, and Discussion/Conclusion. Here is a good example: 
+Write-ups should be organized and written as a scientific paper. We encourage you to use this [latex template](https://dearmond.sharepoint.com/:f:/g/ExternalSharing/EkPg3O2j_z5IlfOZVeVgokEBIWGnSOwwaCWRc8a2hNwT2g?e=dzUT29). It must include the following sections: Introduction (with review of related work), Methods/Models, Results, and Discussion/Conclusion. Here is a good example:   
 Singh, P., Peterson, J. C., Battleday, R. M., & Griffiths, T. L. (2020). End-to-end deep prototype and exemplar models for predicting human behavior. Proceedings of the 42nd Annual Conference of the Cognitive Science Society. [link here](https://arxiv.org/abs/2007.08723)
 
 Code submission is not required for the final project.
