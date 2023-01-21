@@ -10,7 +10,7 @@
 **Labs.** 
 Tuesdays 12:30-1:20PM in Silver Room 405. Masks are always welcome in class.
 
-**Brightspace access for waitlist and auditors.** Please add your email to this [spreadsheet](https://docs.google.com/spreadsheets/d/12xuNgQ17GiTM6W4GulXkqF78kbR8qX-MFooYcPksUQ0/edit?usp=sharing). We will add the emails from the spreadsheet periodically.
+**Brightspace access for waitlist and auditors.** We won't need brightspace for anything except lab recordings. If you feel you need brightspace access and don't have it, please add your email to this [spreadsheet](https://docs.google.com/spreadsheets/d/12xuNgQ17GiTM6W4GulXkqF78kbR8qX-MFooYcPksUQ0/edit?usp=sharing). We will add the emails from the spreadsheet periodically.
 
 **Course numbers**:  
 DS-GA 1016 (Data Science)  
@@ -126,7 +126,7 @@ Tuesdays 12:30-1:20PM (in person or zoom)
 - Tue May 9, No class
 
 ## Readings
-For each major topic, there are assigned readings that go with the lectures.  The papers were selected to be fundamental readings on this topic any computational cognitive scientist would be expected to know.   You should aim to read these over the course of the semester, especially during the periods when we are covering the same topic. The papers should be downloadable on Google Scholar via NYU Library.  However, they are available for download on EdStem website under the "resources" tab (see the down pointing arrow along the top bar or [this link](https://edstem.org/us/courses/18607/resources)).
+For each major topic, there are assigned readings that go with the lectures.  The papers were selected to be fundamental readings on this topic any computational cognitive scientist would be expected to know.   You should aim to read these over the course of the semester, especially during the periods when we are covering the same topic. The papers should be downloadable on Google Scholar via NYU Library.  However, they are available for download on EdStem website under the "resources" tab (see the down pointing arrow along the top bar or [this link](https://edstem.org/us/courses/35462/resources)).
 
 **Neural networks and deep learning**
 - McClelland, J. L., Rumelhart, D. E., & Hinton, G. E. The Appeal of Parallel Distributed Processing. Vol I, Ch 1.
