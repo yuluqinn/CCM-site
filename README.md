@@ -66,7 +66,7 @@ Code submission is not required for the final project.
 Live lectures are 
 
 - Mon. Jan 23: Introduction
- <!-- ([slides-intro](slides/lecture-01-introduction.pdf)([slides-logistics](slides/lecture-00-logistics.pdf)) -->
+ ([slides-intro](slides/lecture-01-introduction.pdf)([slides-logistics](slides/lecture-00-logistics.pdf))
 - Mon. Jan 30: Neural networks / Deep learning (part 1)
 <!-- ([slides](slides/lecture-02-neural_nets.pdf)) -->
   - Homework 1 assigned (Due 2/13) (instructions for accessing [here](retrieving_hw.md))
