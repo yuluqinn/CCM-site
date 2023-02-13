@@ -73,7 +73,7 @@ Live lectures are
 - Mon. Feb. 6: Neural networks / Deep learning (part 2)
 ([slides](slides/lecture-03-neural_nets.pdf))
 - Mon. Feb. 13: Reinforcement learning (part 1)
-<!-- ([slides](slides/lecture-04-reinforcementlearning.pdf)) -->
+([slides](slides/lecture-04-reinforcementlearning.pdf))
 - Mon. Feb. 20: No class, Presidents' Day
 - Mon. Feb. 27: Reinforcement learning (part 2)
 <!-- ([slides](slides/lecture-05-reinforcementlearning.pdf)) -->
