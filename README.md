@@ -29,7 +29,7 @@ If you have a question that isn't suitable for EdStem and there is a need to ema
 Default is in person, but email us to request zoom if need be.  
 Brenden Lake (Thursdays (starting Feb. 2), 4:30-5:30pm, 60 5th Ave. (CDS) Room 610)  
 Todd Gureckis (Tuesdays 1-2pm in 4 Washington Pl (Meyer) 590)  
-Pat Little (Wednesdays 1:30-2:30pm in Meyer 863 (although the office moving soon; check here for an update))  
+Pat Little (Wednesdays 1:30-2:30pm in Meyer 592)  
 Francesco Mantegna (Wednesdays 3:30-4:30pm in Meyer 207)
 
 **Summary**: This course surveys the leading computational frameworks for understanding human intelligence and cognition. Both psychologists and data scientists are working with increasingly large quantities of human behavioral data. Computational cognitive modeling aims to understand behavioral data and the mind and brain, more generally, by building computational models of the cognitive processes that produce the data. This course introduces the goals, philosophy, and technical concepts behind computational cognitive modeling.
