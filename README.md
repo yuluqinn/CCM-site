@@ -28,7 +28,7 @@ If you have a question that isn't suitable for EdStem and there is a need to ema
 **Office hours**:  
 Default is in person, but email us to request zoom if need be.  
 Brenden Lake (Thursdays (starting Feb. 2), 4:30-5:30pm, 60 5th Ave. (CDS) Room 610)  
-Todd Gureckis (Tuesdays 1-2pm in 4 Washington Pl (Meyer) 863 (although office moving soon; check))  
+Todd Gureckis (Tuesdays 1-2pm in 4 Washington Pl (Meyer) 590)  
 Pat Little (Wednesdays 1:30-2:30pm in Meyer 863 (although the office moving soon; check here for an update))  
 Francesco Mantegna (Wednesdays 3:30-4:30pm in Meyer 207)
 
