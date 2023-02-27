@@ -76,7 +76,7 @@ Live lectures are
 ([slides](slides/lecture-04-reinforcementlearning.pdf))
 - Mon. Feb. 20: No class, Presidents' Day
 - Mon. Feb. 27: Reinforcement learning (part 2)
-<!-- ([slides](slides/lecture-05-reinforcementlearning.pdf)) -->
+([slides](slides/lecture-05-reinforcementlearning.pdf))
   - Homework 2 assigned (Due 3/20) (instructions for accessing [here](retrieving_hw.md))
 - Mon. Mar. 6: Reinforcement learning (part 3)
 <!-- ([slides](slides/lecture-06-reinforcementlearning.pdf)) -->
