@@ -79,7 +79,7 @@ Live lectures are
 ([slides](slides/lecture-05-reinforcementlearning.pdf))
   - Homework 2 assigned (Due 3/20) (instructions for accessing [here](retrieving_hw.md))
 - Mon. Mar. 6: Reinforcement learning (part 3)
-<!-- ([slides](slides/lecture-06-reinforcementlearning.pdf)) -->
+([slides](slides/lecture-06-reinforcementlearning.pdf))
 - Mon. Mar. 13: No class, Spring break
 - Mon. Mar 20: Bayesian modeling (part 1)
 <!-- ([slides](slides/lecture-07+08-bayesian_modeling.pdf)) -->
