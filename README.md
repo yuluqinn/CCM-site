@@ -85,8 +85,7 @@ Live lectures are
   - Homework 3 assigned (Due 4/3) (instructions for accessing [here](retrieving_hw.md))
 - Mon. Mar 27: Bayesian modeling (part 2)(same slides as part 1)
 - Mon. Apr 3: Model comparison and fitting, tricks of the trade ([slides](slides/lecture-09-modelfit.pdf)) 
-- Mon. Apr 10: Categorization
-<!-- ([slides](slides/lecture-10-categorization.pdf)) -->
+- Mon. Apr 10: Categorization ([slides](slides/lecture-10-categorization.pdf))
   - Project proposal is due
   - Homework 4 assigned (Due 4/24) (instructions for accessing [here](retrieving_hw.md))
 - Mon. Apr 17: Probabilistic Graphical models
