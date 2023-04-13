@@ -81,13 +81,11 @@ Live lectures are
 - Mon. Mar. 6: Reinforcement learning (part 3)
 ([slides](slides/lecture-06-reinforcementlearning.pdf))
 - Mon. Mar. 13: No class, Spring break
-- Mon. Mar 20: Bayesian modeling (part 1)([slides](https://www.dropbox.com/s/m30ykspfoku9muj/lecture-07%2B08-bayesian_modeling.pdf?dl=0))
+- Mon. Mar 20: Bayesian modeling (part 1)([slides](slides/lecture-07%2B08-bayesian_modeling.pdf?dl=0))
   - Homework 3 assigned (Due 4/3) (instructions for accessing [here](retrieving_hw.md))
 - Mon. Mar 27: Bayesian modeling (part 2)(same slides as part 1)
-- Mon. Apr 3: Model comparison and fitting, tricks of the trade
-<!-- ([slides](slides/lecture-09-modelfit.pdf)) -->
-- Mon. Apr 10: Categorization
-<!-- ([slides](slides/lecture-10-categorization.pdf)) -->
+- Mon. Apr 3: Model comparison and fitting, tricks of the trade ([slides](slides/lecture-09-modelfit.pdf)) 
+- Mon. Apr 10: Categorization ([slides](slides/lecture-10-categorization.pdf))
   - Project proposal is due
   - Homework 4 assigned (Due 4/24) (instructions for accessing [here](retrieving_hw.md))
 - Mon. Apr 17: Probabilistic Graphical models
